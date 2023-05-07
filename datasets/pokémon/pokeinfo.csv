@@ -1,0 +1,1009 @@
+name,pokedex_number,type,weakness,height,weight,ability,genders,hp,attack,defense,special_attack,special_defense,speed
+Gigalith,#0526,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","5' 07""",573.2 lbs,"['Sturdy', 'Sand Stream']","['male', 'female']",5,8,8,4,5,2
+Cobalion,#0638,"['Steel', 'Fighting']","['Fire', 'Fighting', 'Ground']","6' 11""",551.2 lbs,Justified,Unknown,6,6,8,6,5,7
+Shelgon,#0372,Dragon,"['Fairy', 'Ice', 'Dragon']","3' 07""",243.6 lbs,Rock Head,"['male', 'female']",4,6,6,4,3,3
+Great Tusk,#0984,"['Ground', 'Fighting']","['Psychic', 'Flying', 'Ice', 'Water', 'Fairy', 'Grass']","7' 03""",705.5 lbs,Protosynthesis,Unknown,7,8,8,4,4,6
+Conkeldurr,#0534,Fighting,"['Psychic', 'Flying', 'Fairy']","4' 07""",191.8 lbs,"['Guts', 'Sheer Force']","['male', 'female']",7,9,6,4,4,3
+Roggenrola,#0524,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","1' 04""",39.7 lbs,"['Sturdy', 'Weak Armor']","['male', 'female']",4,5,5,2,2,1
+Solosis,#0577,Psychic,"['Ghost', 'Dark', 'Bug']","1' 00""",2.2 lbs,"['Magic Guard', 'Overcoat']","['male', 'female']",3,2,3,7,3,2
+Hawlucha,#0701,"['Fighting', 'Flying']","['Psychic', 'Flying', 'Fairy', 'Electric', 'Ice']","2' 07""",47.4 lbs,"['Limber', 'Unburden']","['male', 'female']",5,6,5,5,4,7
+Terrakion,#0639,"['Rock', 'Fighting']","['Steel', 'Psychic', 'Fighting', 'Water', 'Fairy', 'Grass', 'Ground']","6' 03""",573.2 lbs,Justified,Unknown,6,8,6,5,6,7
+Golisopod,#0768,"['Bug', 'Water']","['Flying', 'Electric', 'Rock']","6' 07""",238.1 lbs,Emergency Exit,"['male', 'female']",5,8,9,4,6,3
+Xurkitree,#0796,Electric,Ground,"12' 06""",220.5 lbs,Beast Boost,Unknown,5,6,5,"['1', '1']",5,5
+Tepig,#0498,Fire,"['Water', 'Ground', 'Rock']","1' 08""",21.8 lbs,Blaze,"['male', 'female']",4,4,3,3,3,3
+Baltoy,#0343,"['Ground', 'Psychic']","['Ghost', 'Water', 'Ice', 'Dark', 'Grass', 'Bug']","1' 08""",47.4 lbs,Levitate,Unknown,3,3,4,3,5,4
+Tranquill,#0520,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","2' 00""",33.1 lbs,"['Super Luck', 'Big Pecks']","['male', 'female']",4,5,4,3,3,4
+Maushold,#0925,Normal,Fighting,"1' 00""",6.2 lbs,"['Cheek Pouch', 'Friend Guard']",Unknown,5,5,5,4,5,7
+Mabosstiff,#0943,Dark,"['Fairy', 'Bug', 'Fighting']","3' 07""",134.5 lbs,"['Intimidate', 'Guard Dog']","['male', 'female']",5,8,6,4,5,5
+Bellibolt,#0939,Electric,Ground,"3' 11""",249.1 lbs,"['Static', 'Electromorphosis']","['male', 'female']",7,4,6,7,5,3
+Palafin,#0964,Water,"['Grass', 'Electric']","4' 03""",132.7 lbs,Zero to Hero,"['male', 'female']",6,5,5,4,4,6
+Crabominable,#0740,"['Fighting', 'Ice']","['Steel', 'Fire', 'Psychic', 'Flying', 'Fighting', 'Fairy']","5' 07""",396.8 lbs,"['Hyper Cutter', 'Iron Fist']","['male', 'female']",6,8,5,4,4,3
+Omanyte,#0138,"['Rock', 'Water']","['Grass', 'Electric', 'Fighting', 'Ground']","1' 04""",16.5 lbs,"['Shell Armor', 'Swift Swim']","['male', 'female']",3,3,6,6,4,3
+Rhyperior,#0464,"['Ground', 'Rock']","['Steel', 'Ice', 'Water', 'Fighting', 'Grass', 'Ground']","7' 10""",623.5 lbs,"['Lightning Rod', 'Solid Rock']","['male', 'female']",7,9,8,4,4,3
+Azumarill,#0184,"['Water', 'Fairy']","['Grass', 'Electric', 'Poison']","2' 07""",62.8 lbs,"['Thick Fat', 'Huge Power']","['male', 'female']",6,3,5,4,5,3
+Foongus,#0590,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","0' 08""",2.2 lbs,Effect Spore,"['male', 'female']",5,4,3,4,4,1
+Bidoof,#0399,Normal,Fighting,"1' 08""",44.1 lbs,"['Simple', 'Unaware']","['male', 'female']",4,3,3,3,3,2
+Kingler,#0099,Water,"['Grass', 'Electric']","4' 03""",132.3 lbs,"['Shell Armor', 'Hyper Cutter']","['male', 'female']",4,8,7,3,3,5
+Dodrio,#0085,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","5' 11""",187.8 lbs,"['Run Away', 'Early Bird']","['male', 'female']",4,7,5,4,4,7
+Swanna,#0581,"['Water', 'Flying']","['Electric', 'Rock']","4' 03""",53.4 lbs,"['Keen Eye', 'Big Pecks']","['male', 'female']",5,6,4,6,4,6
+Mew,#0151,Psychic,"['Ghost', 'Dark', 'Bug']","1' 04""",8.8 lbs,Synchronize,Unknown,6,6,6,6,6,6
+Goodra,#0706,Dragon,"['Fairy', 'Ice', 'Dragon']","6' 07""",331.8 lbs,"['Hydration', 'Sap Sipper']","['male', 'female']",6,6,5,7,9,5
+Lombre,#0271,"['Water', 'Grass']","['Flying', 'Bug', 'Poison']","3' 11""",71.7 lbs,"['Swift Swim', 'Rain Dish']","['male', 'female']",4,3,3,4,5,3
+Oinkologne,#0916,Normal,Fighting,"3' 03""",264.6 lbs,"['Gluttony', 'Lingering Aroma']",male,7,6,5,4,5,4
+Noibat,#0714,"['Flying', 'Dragon']","['Fairy', 'Rock', 'Ice', 'Dragon']","1' 08""",17.6 lbs,"['Frisk', 'Infiltrator']","['male', 'female']",3,2,3,3,3,4
+Mismagius,#0429,Ghost,"['Ghost', 'Dark']","2' 11""",9.7 lbs,Levitate,"['male', 'female']",4,4,4,7,7,7
+Gible,#0443,"['Dragon', 'Ground']","['Fairy', 'Ice', 'Dragon']","2' 04""",45.2 lbs,Sand Veil,"['male', 'female']",4,5,3,3,3,3
+Carracosta,#0565,"['Water', 'Rock']","['Grass', 'Electric', 'Fighting', 'Ground']","3' 11""",178.6 lbs,"['Sturdy', 'Solid Rock']","['male', 'female']",5,7,8,5,4,2
+Liepard,#0510,Dark,"['Fairy', 'Bug', 'Fighting']","3' 07""",82.7 lbs,"['Limber', 'Unburden']","['male', 'female']",4,6,3,6,3,7
+Orthworm,#0968,Steel,"['Fire', 'Fighting', 'Ground']","8' 02""",683.4 lbs,Earth Eater,"['male', 'female']",5,5,9,4,4,4
+Drakloak,#0886,"['Dragon', 'Ghost']","['Ghost', 'Dark', 'Fairy', 'Ice', 'Dragon']","4' 07""",24.3 lbs,"['Clear Body', 'Infiltrator']","['male', 'female']",4,5,3,4,3,6
+Fletchinder,#0662,"['Fire', 'Flying']","['Water', 'Electric', 'Rock']","2' 04""",35.3 lbs,Flame Body,"['male', 'female']",4,5,4,4,4,5
+Chansey,#0113,Normal,Fighting,"3' 07""",76.3 lbs,"['Natural Cure', 'Serene Grace']",female,"['1', '5']",1,1,3,7,3
+Combee,#0415,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","1' 00""",12.1 lbs,Honey Gather,"['male', 'female']",2,2,3,2,3,5
+Seismitoad,#0537,"['Water', 'Ground']",Grass,"4' 11""",136.7 lbs,"['Swift Swim', 'Poison Touch']","['male', 'female']",7,6,5,5,5,5
+Mamoswine,#0473,"['Ice', 'Ground']","['Steel', 'Fire', 'Grass', 'Water', 'Fighting']","8' 02""",641.5 lbs,"['Oblivious', 'Snow Cloak']","['male', 'female']",7,8,5,5,4,5
+Lairon,#0305,"['Steel', 'Rock']","['Water', 'Fighting', 'Ground']","2' 11""",264.6 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",4,6,9,3,3,3
+Stonjourner,#0874,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","8' 02""",1146.4 lbs,Power Spot,"['male', 'female']",6,8,8,2,2,5
+Heracross,#0214,"['Bug', 'Fighting']","['Fire', 'Psychic', 'Flying', 'Fairy']","4' 11""",119.0 lbs,"['Swarm', 'Guts']","['male', 'female']",5,8,5,3,6,5
+Altaria,#0334,"['Dragon', 'Flying']","['Fairy', 'Dragon', 'Ice', 'Rock']","3' 07""",45.4 lbs,Natural Cure,"['male', 'female']",5,5,6,5,7,5
+Kecleon,#0352,Normal,Fighting,"3' 03""",48.5 lbs,Color Change,"['male', 'female']",4,6,5,4,8,3
+Zapdos,#0145,"['Electric', 'Flying']","['Ice', 'Rock']","5' 03""",116.0 lbs,Pressure,Unknown,6,6,5,8,6,6
+Lickitung,#0108,Normal,Fighting,"3' 11""",144.4 lbs,"['Oblivious', 'Own Tempo']","['male', 'female']",6,4,5,4,5,2
+Dartrix,#0723,"['Grass', 'Flying']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock']","2' 04""",35.3 lbs,Overgrow,"['male', 'female']",5,5,5,5,5,4
+Empoleon,#0395,"['Water', 'Steel']","['Electric', 'Fighting', 'Ground']","5' 07""",186.3 lbs,Torrent,"['male', 'female']",5,6,6,7,6,4
+Panpour,#0515,Water,"['Grass', 'Electric']","2' 00""",29.8 lbs,Gluttony,"['male', 'female']",3,4,3,4,3,4
+Timburr,#0532,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 00""",27.6 lbs,"['Guts', 'Sheer Force']","['male', 'female']",5,5,4,2,3,3
+Cufant,#0878,Steel,"['Fire', 'Fighting', 'Ground']","3' 11""",220.5 lbs,Sheer Force,"['male', 'female']",5,5,3,3,3,3
+Ekans,#0023,Poison,"['Psychic', 'Ground']","6' 07""",15.2 lbs,"['Shed Skin', 'Intimidate']","['male', 'female']",3,4,3,3,4,4
+Eiscue,#0875,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","4' 07""",196.2 lbs,Ice Face,"['male', 'female']",5,5,7,4,6,3
+Klawf,#0950,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","4' 03""",174.2 lbs,"['Shell Armor', 'Anger Shell']","['male', 'female']",5,6,7,3,4,5
+Patrat,#0504,Normal,Fighting,"1' 08""",25.6 lbs,"['Keen Eye', 'Run Away']","['male', 'female']",3,4,3,3,3,3
+Chingling,#0433,Psychic,"['Ghost', 'Dark', 'Bug']","0' 08""",1.3 lbs,Levitate,"['male', 'female']",3,2,3,4,3,3
+Dragalge,#0691,"['Poison', 'Dragon']","['Psychic', 'Ground', 'Ice', 'Dragon']","5' 11""",179.7 lbs,"['Poison Point', 'Poison Touch']","['male', 'female']",4,5,6,6,8,3
+Tentacool,#0072,"['Water', 'Poison']","['Psychic', 'Electric', 'Ground']","2' 11""",100.3 lbs,"['Clear Body', 'Liquid Ooze']","['male', 'female']",3,3,3,3,6,5
+Vikavolt,#0738,"['Bug', 'Electric']","['Fire', 'Rock']","4' 11""",99.2 lbs,Levitate,"['male', 'female']",5,5,6,9,5,3
+Honchkrow,#0430,"['Dark', 'Flying']","['Fairy', 'Electric', 'Ice', 'Rock']","2' 11""",60.2 lbs,"['Insomnia', 'Super Luck']","['male', 'female']",6,8,4,7,4,5
+Froakie,#0656,Water,"['Grass', 'Electric']","1' 00""",15.4 lbs,Torrent,"['male', 'female']",3,4,3,4,3,5
+Naganadel,#0804,"['Poison', 'Dragon']","['Psychic', 'Ground', 'Ice', 'Dragon']","11' 10""",330.7 lbs,Beast Boost,Unknown,5,5,5,8,5,8
+Geodude,#0074,"['Rock', 'Ground']","['Steel', 'Fighting', 'Water', 'Ice', 'Grass', 'Ground']","1' 04""",44.1 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",3,5,6,2,2,2
+Sirfetch’d,#0865,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 07""",257.9 lbs,Steadfast,"['male', 'female']",4,8,6,5,4,4
+Wugtrio,#0961,Water,"['Grass', 'Electric']","3' 11""",11.9 lbs,"['Gooey', 'Rattled']","['male', 'female']",3,6,3,3,5,8
+Whirlipede,#0544,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","3' 11""",129.0 lbs,"['Swarm', 'Poison Point']","['male', 'female']",3,4,6,3,5,3
+Electrike,#0309,Electric,Ground,"2' 00""",33.5 lbs,"['Static', 'Lightning Rod']","['male', 'female']",3,3,3,4,3,4
+Togepi,#0175,Fairy,"['Steel', 'Poison']","1' 00""",3.3 lbs,"['Serene Grace', 'Hustle']","['male', 'female']",3,2,4,3,4,2
+Thundurus,#0642,"['Electric', 'Flying']","['Ice', 'Rock']","4' 11""",134.5 lbs,Prankster,male,5,7,5,8,5,7
+Huntail,#0367,Water,"['Grass', 'Electric']","5' 07""",59.5 lbs,Swift Swim,"['male', 'female']",4,7,7,6,5,4
+Swoobat,#0528,"['Psychic', 'Flying']","['Ghost', 'Dark', 'Electric', 'Ice', 'Rock']","2' 11""",23.1 lbs,"['Unaware', 'Klutz']","['male', 'female']",4,4,4,5,4,7
+Pawmo,#0922,"['Electric', 'Fighting']","['Psychic', 'Fairy', 'Ground']","1' 04""",14.3 lbs,"['Natural Cure', 'Volt Absorb']","['male', 'female']",4,5,3,3,3,5
+Shaymin,#0492,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","0' 08""",4.6 lbs,Natural Cure,Unknown,6,6,6,6,6,6
+Alakazam,#0065,Psychic,"['Ghost', 'Dark', 'Bug']","4' 11""",105.8 lbs,"['Inner Focus', 'Synchronize']","['male', 'female']",4,3,3,8,6,8
+Bouffalant,#0626,Normal,Fighting,"5' 03""",208.6 lbs,"['Reckless', 'Sap Sipper']","['male', 'female']",6,7,6,3,6,4
+Diglett,#0050,Ground,"['Water', 'Grass', 'Ice']","0' 08""",1.8 lbs,"['Sand Veil', 'Arena Trap']","['male', 'female']",1,4,2,3,3,6
+Vanillite,#0582,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","1' 04""",12.6 lbs,"['Snow Cloak', 'Ice Body']","['male', 'female']",3,3,3,4,4,3
+Sneasler,#0903,"['Fighting', 'Poison']","['Psychic', 'Flying', 'Ground']","4' 03""",94.8 lbs,,"['male', 'female']",5,8,4,3,5,8
+Bulbasaur,#0001,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","2' 04""",15.2 lbs,Overgrow,"['male', 'female']",3,3,3,4,4,3
+Golduck,#0055,Water,"['Grass', 'Electric']","5' 07""",168.9 lbs,"['Damp', 'Cloud Nine']","['male', 'female']",5,5,5,6,5,5
+Rayquaza,#0384,"['Dragon', 'Flying']","['Fairy', 'Dragon', 'Ice', 'Rock']","23' 00""",455.3 lbs,Air Lock,Unknown,7,9,6,9,6,6
+Morgrem,#0860,"['Dark', 'Fairy']","['Steel', 'Fairy', 'Poison']","2' 07""",27.6 lbs,"['Frisk', 'Prankster']",male,4,4,3,5,4,5
+Tirtouga,#0564,"['Water', 'Rock']","['Grass', 'Electric', 'Fighting', 'Ground']","2' 04""",36.4 lbs,"['Sturdy', 'Solid Rock']","['male', 'female']",4,5,7,4,3,2
+Ho-Oh,#0250,"['Fire', 'Flying']","['Water', 'Electric', 'Rock']","12' 06""",438.7 lbs,Pressure,Unknown,7,8,6,7,"['1', '0']",6
+Ditto,#0132,Normal,Fighting,"1' 00""",8.8 lbs,Limber,Unknown,3,3,3,3,3,3
+Burmy,#0412,Bug,"['Fire', 'Flying', 'Rock']","0' 08""",7.5 lbs,Shed Skin,"['male', 'female']",3,2,3,2,3,3
+Capsakid,#0951,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 00""",6.6 lbs,"['Chlorophyll', 'Insomnia']","['male', 'female']",3,4,3,4,3,3
+Deino,#0633,"['Dark', 'Dragon']","['Fairy', 'Fighting', 'Bug', 'Ice', 'Dragon']","2' 07""",38.1 lbs,Hustle,"['male', 'female']",4,4,3,3,3,3
+Espeon,#0196,Psychic,"['Ghost', 'Dark', 'Bug']","2' 11""",58.4 lbs,Synchronize,"['male', 'female']",4,4,4,8,6,7
+Gulpin,#0316,Poison,"['Psychic', 'Ground']","1' 04""",22.7 lbs,"['Liquid Ooze', 'Sticky Hold']","['male', 'female']",5,3,4,3,4,3
+Rotom,#0479,"['Electric', 'Ghost']","['Ghost', 'Dark', 'Ground']","1' 00""",0.7 lbs,Levitate,Unknown,3,3,5,6,5,6
+Araquanid,#0752,"['Water', 'Bug']","['Flying', 'Electric', 'Rock']","5' 11""",180.8 lbs,Water Bubble,"['male', 'female']",4,5,6,3,8,3
+Shiftry,#0275,"['Grass', 'Dark']","['Ice', 'Fire', 'Flying', 'Poison', 'Fighting', 'Fairy', 'Bug']","4' 03""",131.4 lbs,"['Chlorophyll', 'Early Bird']","['male', 'female']",6,6,4,6,4,5
+Unown,#0201,Psychic,"['Ghost', 'Dark', 'Bug']","1' 08""",11.0 lbs,Levitate,Unknown,3,5,3,5,3,3
+Swellow,#0277,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","2' 04""",43.7 lbs,Guts,"['male', 'female']",4,5,4,5,3,8
+Espathra,#0956,Psychic,"['Ghost', 'Dark', 'Bug']","6' 03""",198.4 lbs,"['Frisk', 'Opportunist']","['male', 'female']",6,4,4,6,4,7
+Beartic,#0614,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","8' 06""",573.2 lbs,"['Snow Cloak', 'Slush Rush']","['male', 'female']",6,8,5,5,5,3
+Totodile,#0158,Water,"['Grass', 'Electric']","2' 00""",20.9 lbs,Torrent,"['male', 'female']",3,4,4,3,3,3
+Golem,#0076,"['Rock', 'Ground']","['Steel', 'Fighting', 'Water', 'Ice', 'Grass', 'Ground']","4' 07""",661.4 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",5,8,8,4,4,3
+Pinsir,#0127,Bug,"['Fire', 'Flying', 'Rock']","4' 11""",121.3 lbs,"['Hyper Cutter', 'Mold Breaker']","['male', 'female']",4,8,6,4,5,5
+Eldegoss,#0830,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 08""",5.5 lbs,"['Regenerator', 'Cotton Down']","['male', 'female']",4,3,6,5,8,4
+Grookey,#0810,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 00""",11.0 lbs,Overgrow,"['male', 'female']",3,4,3,3,4,3
+Mawile,#0303,"['Steel', 'Fairy']","['Fire', 'Ground']","2' 00""",25.4 lbs,"['Intimidate', 'Hyper Cutter']","['male', 'female']",3,5,5,4,4,3
+Nidorino,#0033,Poison,"['Psychic', 'Ground']","2' 11""",43.0 lbs,"['Poison Point', 'Rivalry']",male,4,5,4,4,4,4
+Leavanny,#0542,"['Bug', 'Grass']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock', 'Bug']","3' 11""",45.2 lbs,"['Swarm', 'Chlorophyll']","['male', 'female']",5,7,5,5,5,6
+Zarude,#0893,"['Dark', 'Grass']","['Fire', 'Flying', 'Fighting', 'Ice', 'Poison', 'Fairy', 'Bug']","5' 11""",154.3 lbs,Leaf Guard,Unknown,7,8,7,5,6,7
+Armaldo,#0348,"['Rock', 'Bug']","['Steel', 'Water', 'Rock']","4' 11""",150.4 lbs,Battle Armor,"['male', 'female']",5,8,6,5,5,3
+Rockruff,#0744,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","1' 08""",20.3 lbs,"['Keen Eye', 'Vital Spirit', 'Own Tempo']","['male', 'female']",3,4,3,2,3,4
+Glimmora,#0970,"['Rock', 'Poison']","['Steel', 'Water', 'Psychic', 'Ground']","4' 11""",99.2 lbs,Toxic Debris,"['male', 'female']",5,4,6,8,5,6
+Trapinch,#0328,Ground,"['Water', 'Grass', 'Ice']","2' 04""",33.1 lbs,"['Arena Trap', 'Hyper Cutter']","['male', 'female']",3,6,3,3,3,1
+Seaking,#0119,Water,"['Grass', 'Electric']","4' 03""",86.0 lbs,"['Swift Swim', 'Water Veil']","['male', 'female']",5,6,4,4,5,4
+Gliscor,#0472,"['Ground', 'Flying']","['Water', 'Ice']","6' 07""",93.7 lbs,"['Sand Veil', 'Hyper Cutter']","['male', 'female']",5,6,8,3,5,6
+Cherubi,#0420,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 04""",7.3 lbs,Chlorophyll,"['male', 'female']",3,3,3,4,4,3
+Electrode,#0101,Electric,Ground,"3' 11""",146.8 lbs,"['Static', 'Soundproof']",Unknown,4,3,5,5,5,9
+Wurmple,#0265,Bug,"['Fire', 'Flying', 'Rock']","1' 00""",7.9 lbs,Shield Dust,"['male', 'female']",3,3,3,2,2,2
+Wobbuffet,#0202,Psychic,"['Ghost', 'Dark', 'Bug']","4' 03""",62.8 lbs,Shadow Tag,"['male', 'female']","['1', '2']",2,4,2,4,2
+Watchog,#0505,Normal,Fighting,"3' 07""",59.5 lbs,"['Keen Eye', 'Illuminate']","['male', 'female']",4,5,5,4,5,5
+Talonflame,#0663,"['Fire', 'Flying']","['Water', 'Electric', 'Rock']","3' 11""",54.0 lbs,Flame Body,"['male', 'female']",5,5,5,5,5,8
+Palossand,#0770,"['Ghost', 'Ground']","['Ghost', 'Dark', 'Grass', 'Water', 'Ice']","4' 03""",551.2 lbs,Water Compaction,"['male', 'female']",5,5,7,6,5,3
+Dudunsparce,#0982,Normal,Fighting,"11' 10""",86.4 lbs,"['Run Away', 'Serene Grace']","['male', 'female']",8,6,5,5,5,4
+Heliolisk,#0695,"['Electric', 'Normal']","['Fighting', 'Ground']","3' 03""",46.3 lbs,"['Sand Veil', 'Dry Skin']","['male', 'female']",4,4,4,7,6,7
+Shroodle,#0944,"['Poison', 'Normal']","['Psychic', 'Ground']","0' 08""",1.5 lbs,"['Unburden', 'Pickpocket']","['male', 'female']",3,4,3,3,3,5
+Arctozolt,#0881,"['Electric', 'Ice']","['Fire', 'Ground', 'Fighting', 'Rock']","7' 07""",330.7 lbs,"['Static', 'Volt Absorb']",Unknown,6,6,6,5,4,6
+Onix,#0095,"['Rock', 'Ground']","['Steel', 'Fighting', 'Water', 'Ice', 'Grass', 'Ground']","28' 10""",463.0 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",3,3,"['1', '0']",2,3,5
+Leafeon,#0470,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","3' 03""",56.2 lbs,Leaf Guard,"['male', 'female']",4,7,8,4,4,6
+Teddiursa,#0216,Normal,Fighting,"2' 00""",19.4 lbs,"['Pickup', 'Quick Feet']","['male', 'female']",4,5,3,3,3,3
+Turtonator,#0776,"['Fire', 'Dragon']","['Ground', 'Rock', 'Dragon']","6' 07""",467.4 lbs,Shell Armor,"['male', 'female']",4,5,8,6,5,3
+Dustox,#0269,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","3' 11""",69.7 lbs,Shield Dust,"['male', 'female']",4,3,5,3,6,4
+Scolipede,#0545,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","8' 02""",442.0 lbs,"['Swarm', 'Poison Point']","['male', 'female']",4,6,6,4,5,7
+Parasect,#0047,"['Bug', 'Grass']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock', 'Bug']","3' 03""",65.0 lbs,"['Effect Spore', 'Dry Skin']","['male', 'female']",4,6,5,4,5,2
+Cofagrigus,#0563,Ghost,"['Ghost', 'Dark']","5' 07""",168.7 lbs,Mummy,"['male', 'female']",4,3,9,6,7,2
+Wo-Chien,#1001,"['Dark', 'Grass']","['Fire', 'Flying', 'Fighting', 'Ice', 'Poison', 'Fairy', 'Bug']","4' 11""",163.6 lbs,Tablets of Ruin,Unknown,5,5,6,6,8,5
+Fidough,#0926,Fairy,"['Steel', 'Poison']","1' 00""",24.0 lbs,Own Tempo,"['male', 'female']",3,4,5,2,4,4
+Flittle,#0955,Psychic,"['Ghost', 'Dark', 'Bug']","0' 08""",3.3 lbs,"['Frisk', 'Anticipation']","['male', 'female']",2,3,2,4,2,5
+Greninja,#0658,"['Water', 'Dark']","['Fairy', 'Grass', 'Electric', 'Fighting', 'Bug']","4' 11""",88.2 lbs,Torrent,"['male', 'female']",5,6,4,7,5,8
+Salandit,#0757,"['Poison', 'Fire']","['Water', 'Psychic', 'Ground', 'Rock']","2' 00""",10.6 lbs,Corrosion,"['male', 'female']",3,3,3,5,3,5
+Skorupi,#0451,"['Poison', 'Bug']","['Fire', 'Psychic', 'Flying', 'Rock']","2' 07""",26.5 lbs,"['Sniper', 'Battle Armor']","['male', 'female']",3,3,6,2,4,4
+Mr. Mime,#0122,"['Psychic', 'Fairy']","['Ghost', 'Steel', 'Poison']","4' 03""",120.2 lbs,"['Soundproof', 'Filter']","['male', 'female']",3,3,4,6,8,6
+Shuppet,#0353,Ghost,"['Ghost', 'Dark']","2' 00""",5.1 lbs,"['Insomnia', 'Frisk']","['male', 'female']",3,5,3,4,2,3
+Iron Hands,#0992,"['Fighting', 'Electric']","['Psychic', 'Fairy', 'Ground']","5' 11""",839.3 lbs,Quark Drive,Unknown,"['1', '0']",9,7,3,4,3
+Baxcalibur,#0998,"['Dragon', 'Ice']","['Steel', 'Fairy', 'Rock', 'Fighting', 'Dragon']","6' 11""",463.0 lbs,Thermal Exchange,"['male', 'female']",7,9,6,5,6,6
+Dwebble,#0557,"['Bug', 'Rock']","['Steel', 'Water', 'Rock']","1' 00""",32.0 lbs,"['Sturdy', 'Shell Armor']","['male', 'female']",3,4,5,3,3,4
+Gastrodon,#0423,"['Water', 'Ground']",Grass,"2' 11""",65.9 lbs,"['Sticky Hold', 'Storm Drain']","['male', 'female']",7,5,4,6,5,3
+Palpitoad,#0536,"['Water', 'Ground']",Grass,"2' 07""",37.5 lbs,"['Hydration', 'Swift Swim']","['male', 'female']",5,4,4,4,4,5
+Enamorus,#0905,"['Fairy', 'Flying']","['Steel', 'Poison', 'Electric', 'Ice', 'Rock']","5' 03""",105.8 lbs,,female,5,7,5,8,5,7
+Bisharp,#0625,"['Dark', 'Steel']","['Fire', 'Fighting', 'Ground']","5' 03""",154.3 lbs,"['Inner Focus', 'Defiant']","['male', 'female']",4,8,6,4,5,5
+Mimikyu,#0778,"['Ghost', 'Fairy']","['Ghost', 'Steel']","0' 08""",1.5 lbs,Disguise,"['male', 'female']",4,6,5,3,7,6
+Aggron,#0306,"['Steel', 'Rock']","['Water', 'Fighting', 'Ground']","6' 11""",793.7 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",5,7,"['1', '1']",4,4,3
+Cacnea,#0331,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 04""",113.1 lbs,Sand Veil,"['male', 'female']",3,5,3,5,3,3
+Pheromosa,#0795,"['Bug', 'Fighting']","['Fire', 'Psychic', 'Flying', 'Fairy']","5' 11""",55.1 lbs,Beast Boost,Unknown,5,9,3,9,3,9
+Corviknight,#0823,"['Flying', 'Steel']","['Fire', 'Electric']","7' 03""",165.3 lbs,"['Pressure', 'Unnerve']","['male', 'female']",6,6,7,4,5,4
+Froslass,#0478,"['Ice', 'Ghost']","['Steel', 'Ghost', 'Fire', 'Dark', 'Rock']","4' 03""",58.6 lbs,Snow Cloak,female,5,5,5,5,5,7
+Farigiraf,#0981,"['Normal', 'Psychic']","['Dark', 'Bug']","10' 06""",352.7 lbs,"['Cud Chew', 'Armor Tail']","['male', 'female']",8,6,5,7,5,4
+Chikorita,#0152,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 11""",14.1 lbs,Overgrow,"['male', 'female']",3,3,4,3,4,3
+Yveltal,#0717,"['Dark', 'Flying']","['Fairy', 'Electric', 'Ice', 'Rock']","19' 00""",447.5 lbs,Dark Aura,Unknown,8,8,6,8,6,6
+Ponyta,#0077,Fire,"['Water', 'Ground', 'Rock']","3' 03""",66.1 lbs,"['Run Away', 'Flash Fire']","['male', 'female']",3,5,4,4,4,6
+Smoliv,#0928,"['Grass', 'Normal']","['Ice', 'Fire', 'Flying', 'Poison', 'Fighting', 'Bug']","1' 00""",14.3 lbs,Early Bird,"['male', 'female']",3,3,3,4,3,2
+Wartortle,#0008,Water,"['Grass', 'Electric']","3' 03""",49.6 lbs,Torrent,"['male', 'female']",4,4,5,4,5,4
+Passimian,#0766,Fighting,"['Psychic', 'Flying', 'Fairy']","6' 07""",182.5 lbs,Receiver,"['male', 'female']",6,8,6,3,4,5
+Garbodor,#0569,Poison,"['Psychic', 'Ground']","6' 03""",236.6 lbs,"['Stench', 'Weak Armor']","['male', 'female']",5,6,5,4,5,5
+Bellsprout,#0069,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","2' 04""",8.8 lbs,Chlorophyll,"['male', 'female']",3,5,3,5,2,3
+Sylveon,#0700,Fairy,"['Steel', 'Poison']","3' 03""",51.8 lbs,Cute Charm,"['male', 'female']",6,4,4,7,8,4
+Amoonguss,#0591,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","2' 00""",23.1 lbs,Effect Spore,"['male', 'female']",7,5,5,5,5,2
+Corvisquire,#0822,Flying,"['Electric', 'Ice', 'Rock']","2' 07""",35.3 lbs,"['Keen Eye', 'Unnerve']","['male', 'female']",4,4,4,3,4,5
+Shiinotic,#0756,"['Grass', 'Fairy']","['Steel', 'Fire', 'Flying', 'Ice', 'Poison']","3' 03""",25.4 lbs,"['Effect Spore', 'Illuminate']","['male', 'female']",4,3,5,6,6,2
+Chimecho,#0358,Psychic,"['Ghost', 'Dark', 'Bug']","2' 00""",2.2 lbs,Levitate,"['male', 'female']",5,3,5,6,6,4
+Unfezant,#0521,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","3' 11""",63.9 lbs,"['Super Luck', 'Big Pecks']",male,5,7,5,4,4,6
+Tadbulb,#0938,Electric,Ground,"1' 00""",0.9 lbs,"['Static', 'Own Tempo']","['male', 'female']",4,2,3,4,3,3
+Toedscruel,#0949,"['Ground', 'Grass']","['Fire', 'Flying', 'Bug', 'Ice']","6' 03""",127.9 lbs,Mycelium Might,"['male', 'female']",5,5,4,5,8,6
+Smoochum,#0238,"['Ice', 'Psychic']","['Steel', 'Ghost', 'Fire', 'Dark', 'Rock', 'Bug']","1' 04""",13.2 lbs,"['Oblivious', 'Forewarn']",female,3,2,1,5,4,4
+Lurantis,#0754,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 11""",40.8 lbs,Leaf Guard,"['male', 'female']",5,7,6,5,6,3
+Snorunt,#0361,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","2' 04""",37.0 lbs,"['Inner Focus', 'Ice Body']","['male', 'female']",3,3,3,3,3,3
+Bergmite,#0712,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","3' 03""",219.4 lbs,"['Own Tempo', 'Ice Body']","['male', 'female']",4,5,5,2,3,2
+Manaphy,#0490,Water,"['Grass', 'Electric']","1' 00""",3.1 lbs,Hydration,Unknown,6,6,6,6,6,6
+Misdreavus,#0200,Ghost,"['Ghost', 'Dark']","2' 04""",2.2 lbs,Levitate,"['male', 'female']",4,4,4,5,5,5
+Sceptile,#0254,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","5' 07""",115.1 lbs,Overgrow,"['male', 'female']",5,5,4,7,5,8
+Slaking,#0289,Normal,Fighting,"6' 07""",287.7 lbs,Truant,"['male', 'female']",9,"['1', '0']",6,6,4,6
+Buizel,#0418,Water,"['Grass', 'Electric']","2' 04""",65.0 lbs,Swift Swim,"['male', 'female']",4,4,3,4,2,5
+Dunsparce,#0206,Normal,Fighting,"4' 11""",30.9 lbs,"['Run Away', 'Serene Grace']","['male', 'female']",6,5,5,4,4,3
+Cottonee,#0546,"['Grass', 'Fairy']","['Steel', 'Fire', 'Flying', 'Ice', 'Poison']","1' 00""",1.3 lbs,"['Prankster', 'Infiltrator']","['male', 'female']",3,2,4,3,3,4
+Indeedee,#0876,"['Psychic', 'Normal']","['Dark', 'Bug']","2' 11""",61.7 lbs,"['Inner Focus', 'Synchronize']",male,4,4,4,7,6,6
+Shroomish,#0285,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 04""",9.9 lbs,"['Effect Spore', 'Poison Heal']","['male', 'female']",4,3,4,3,4,3
+Basculegion,#0902,"['Water', 'Ghost']","['Ghost', 'Dark', 'Grass', 'Electric']","9' 10""",242.5 lbs,,male,8,7,4,5,5,5
+Morpeko,#0877,"['Electric', 'Dark']","['Fairy', 'Bug', 'Fighting', 'Ground']","1' 00""",6.6 lbs,Hunger Switch,"['male', 'female']",4,6,4,5,4,6
+Swinub,#0220,"['Ice', 'Ground']","['Steel', 'Fire', 'Grass', 'Water', 'Fighting']","1' 04""",14.3 lbs,"['Oblivious', 'Snow Cloak']","['male', 'female']",3,3,3,2,2,3
+Bounsweet,#0761,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 00""",7.1 lbs,"['Oblivious', 'Leaf Guard']",female,3,2,3,2,3,2
+Orbeetle,#0826,"['Bug', 'Psychic']","['Ghost', 'Fire', 'Flying', 'Dark', 'Rock', 'Bug']","1' 04""",89.9 lbs,"['Swarm', 'Frisk']","['male', 'female']",4,3,7,8,6,5
+Wishiwashi,#0746,Water,"['Grass', 'Electric']","0' 08""",0.7 lbs,Schooling,"['male', 'female']",3,2,2,2,2,3
+Venonat,#0048,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","3' 03""",66.1 lbs,"['Compound Eyes', 'Tinted Lens']","['male', 'female']",4,4,3,3,4,3
+Serperior,#0497,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","10' 10""",138.9 lbs,Overgrow,"['male', 'female']",5,5,6,5,6,7
+Snom,#0872,"['Ice', 'Bug']","['Fire', 'Steel', 'Flying', 'Rock']","1' 00""",8.4 lbs,Shield Dust,"['male', 'female']",2,2,3,3,2,2
+Floragato,#0907,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 11""",26.9 lbs,Overgrow,"['male', 'female']",4,5,4,4,4,5
+Exeggcute,#0102,"['Grass', 'Psychic']","['Ghost', 'Fire', 'Flying', 'Ice', 'Dark', 'Poison', 'Bug']","1' 04""",5.5 lbs,Chlorophyll,"['male', 'female']",4,3,5,4,3,3
+Mienfoo,#0619,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 11""",44.1 lbs,"['Inner Focus', 'Regenerator']","['male', 'female']",3,5,3,4,3,4
+Meltan,#0808,Steel,"['Fire', 'Fighting', 'Ground']","0' 08""",17.6 lbs,Magnet Pull,Unknown,3,4,4,4,3,2
+Durant,#0632,"['Bug', 'Steel']",Fire,"1' 00""",72.8 lbs,"['Swarm', 'Hustle']","['male', 'female']",4,7,7,3,3,7
+Toedscool,#0948,"['Ground', 'Grass']","['Fire', 'Flying', 'Bug', 'Ice']","2' 11""",72.8 lbs,Mycelium Might,"['male', 'female']",3,3,3,3,6,5
+Calyrex,#0898,"['Psychic', 'Grass']","['Ghost', 'Fire', 'Flying', 'Ice', 'Dark', 'Poison', 'Bug']","3' 07""",17.0 lbs,Unnerve,Unknown,6,5,5,5,5,5
+Finizen,#0963,Water,"['Grass', 'Electric']","4' 03""",132.7 lbs,Water Veil,"['male', 'female']",5,3,3,3,3,5
+Chimchar,#0390,Fire,"['Water', 'Ground', 'Rock']","1' 08""",13.7 lbs,Blaze,"['male', 'female']",3,4,3,4,3,4
+Avalugg,#0713,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","6' 07""",1113.3 lbs,"['Own Tempo', 'Ice Body']","['male', 'female']",6,7,"['1', '1']",3,3,2
+Clefable,#0036,Fairy,"['Steel', 'Poison']","4' 03""",88.2 lbs,"['Cute Charm', 'Magic Guard']","['male', 'female']",6,5,5,6,6,4
+Gorebyss,#0368,Water,"['Grass', 'Electric']","5' 11""",49.8 lbs,Swift Swim,"['male', 'female']",4,5,7,7,5,4
+Simisage,#0512,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","3' 07""",67.2 lbs,Gluttony,"['male', 'female']",5,6,4,6,4,6
+Golbat,#0042,"['Poison', 'Flying']","['Psychic', 'Electric', 'Ice', 'Rock']","5' 03""",121.3 lbs,Inner Focus,"['male', 'female']",5,5,5,4,5,6
+Blitzle,#0522,Electric,Ground,"2' 07""",65.7 lbs,"['Lightning Rod', 'Motor Drive']","['male', 'female']",3,4,2,3,2,5
+Cubone,#0104,Ground,"['Water', 'Grass', 'Ice']","1' 04""",14.3 lbs,"['Rock Head', 'Lightning Rod']","['male', 'female']",3,3,6,3,3,3
+Clauncher,#0692,Water,"['Grass', 'Electric']","1' 08""",18.3 lbs,Mega Launcher,"['male', 'female']",3,4,4,4,4,3
+Chi-Yu,#1004,"['Dark', 'Fire']","['Water', 'Ground', 'Fighting', 'Rock']","1' 04""",10.8 lbs,Beads of Ruin,Unknown,4,5,5,8,8,6
+Psyduck,#0054,Water,"['Grass', 'Electric']","2' 07""",43.2 lbs,"['Damp', 'Cloud Nine']","['male', 'female']",3,4,3,4,3,4
+Escavalier,#0589,"['Bug', 'Steel']",Fire,"3' 03""",72.8 lbs,"['Swarm', 'Shell Armor']","['male', 'female']",5,8,7,4,7,2
+Raichu,#0026,Electric,Ground,"2' 07""",66.1 lbs,Static,"['male', 'female']",4,6,4,6,5,7
+Rufflet,#0627,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 08""",23.1 lbs,"['Keen Eye', 'Sheer Force']",male,5,5,3,3,3,4
+Dubwool,#0832,Normal,Fighting,"4' 03""",94.8 lbs,"['Steadfast', 'Fluffy']","['male', 'female']",5,5,6,4,6,6
+Dewgong,#0087,"['Water', 'Ice']","['Grass', 'Electric', 'Fighting', 'Rock']","5' 07""",264.6 lbs,"['Thick Fat', 'Hydration']","['male', 'female']",6,5,5,5,6,5
+Emboar,#0500,"['Fire', 'Fighting']","['Water', 'Psychic', 'Flying', 'Ground']","5' 03""",330.7 lbs,Blaze,"['male', 'female']",7,8,4,6,4,4
+Delcatty,#0301,Normal,Fighting,"3' 07""",71.9 lbs,"['Cute Charm', 'Normalize']","['male', 'female']",5,4,4,4,4,6
+Pawmot,#0923,"['Electric', 'Fighting']","['Psychic', 'Fairy', 'Ground']","2' 11""",90.4 lbs,"['Natural Cure', 'Volt Absorb']","['male', 'female']",5,7,5,5,4,7
+Greavard,#0971,Ghost,"['Ghost', 'Dark']","2' 00""",77.2 lbs,Pickup,"['male', 'female']",3,4,4,2,4,2
+Trubbish,#0568,Poison,"['Psychic', 'Ground']","2' 00""",68.3 lbs,"['Stench', 'Sticky Hold']","['male', 'female']",3,3,4,3,4,4
+Charjabug,#0737,"['Bug', 'Electric']","['Fire', 'Rock']","1' 08""",23.1 lbs,Battery,"['male', 'female']",4,5,6,4,5,3
+Clodsire,#0980,"['Poison', 'Ground']","['Water', 'Psychic', 'Ice', 'Ground']","5' 11""",491.6 lbs,"['Poison Point', 'Water Absorb']","['male', 'female']",8,5,4,3,6,2
+Armarouge,#0936,"['Fire', 'Psychic']","['Ghost', 'Dark', 'Ground', 'Water', 'Rock']","4' 11""",187.4 lbs,Flash Fire,"['male', 'female']",5,4,6,8,5,5
+Larvitar,#0246,"['Rock', 'Ground']","['Steel', 'Fighting', 'Water', 'Ice', 'Grass', 'Ground']","2' 00""",158.7 lbs,Guts,"['male', 'female']",3,4,3,3,3,3
+Overqwil,#0904,"['Dark', 'Poison']",Ground,"8' 02""",133.4 lbs,,"['male', 'female']",5,7,6,4,4,5
+Turtwig,#0387,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 04""",22.5 lbs,Overgrow,"['male', 'female']",4,4,4,3,4,2
+Omastar,#0139,"['Rock', 'Water']","['Grass', 'Electric', 'Fighting', 'Ground']","3' 03""",77.2 lbs,"['Shell Armor', 'Swift Swim']","['male', 'female']",5,4,8,7,5,4
+Growlithe,#0058,Fire,"['Water', 'Ground', 'Rock']","2' 04""",41.9 lbs,"['Intimidate', 'Flash Fire']","['male', 'female']",4,5,3,5,3,4
+Munchlax,#0446,Normal,Fighting,"2' 00""",231.5 lbs,"['Pickup', 'Thick Fat']","['male', 'female']",8,5,3,3,5,1
+Seviper,#0336,Poison,"['Psychic', 'Ground']","8' 10""",115.7 lbs,Shed Skin,"['male', 'female']",5,6,4,6,4,4
+Pangoro,#0675,"['Fighting', 'Dark']","['Fairy', 'Flying', 'Fighting']","6' 11""",299.8 lbs,"['Iron Fist', 'Mold Breaker']","['male', 'female']",6,8,5,5,5,4
+Sunkern,#0191,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 00""",4.0 lbs,"['Chlorophyll', 'Solar Power']","['male', 'female']",2,2,2,2,2,2
+Staryu,#0120,Water,"['Grass', 'Electric']","2' 07""",76.1 lbs,"['Natural Cure', 'Illuminate']",Unknown,2,3,4,5,4,5
+Mantyke,#0458,"['Water', 'Flying']","['Electric', 'Rock']","3' 03""",143.3 lbs,"['Water Absorb', 'Swift Swim']","['male', 'female']",3,2,3,4,8,3
+Eelektrik,#0603,Electric,Ground,"3' 11""",48.5 lbs,Levitate,"['male', 'female']",4,5,5,5,5,3
+Houndstone,#0972,Ghost,"['Ghost', 'Dark']","6' 07""",33.1 lbs,Sand Rush,"['male', 'female']",5,6,6,3,6,4
+Togetic,#0176,"['Fairy', 'Flying']","['Steel', 'Poison', 'Electric', 'Ice', 'Rock']","2' 00""",7.1 lbs,"['Serene Grace', 'Hustle']","['male', 'female']",4,3,5,5,7,3
+Dhelmise,#0781,"['Ghost', 'Grass']","['Ghost', 'Fire', 'Flying', 'Dark', 'Ice']","12' 10""",463.0 lbs,Steelworker,Unknown,5,8,6,6,6,3
+Barbaracle,#0689,"['Rock', 'Water']","['Grass', 'Electric', 'Fighting', 'Ground']","4' 03""",211.6 lbs,"['Sniper', 'Tough Claws']","['male', 'female']",5,7,7,4,6,4
+Kakuna,#0014,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","2' 00""",22.0 lbs,Shed Skin,"['male', 'female']",3,2,3,2,2,3
+Grovyle,#0253,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 11""",47.6 lbs,Overgrow,"['male', 'female']",3,4,3,5,4,6
+Shelmet,#0616,Bug,"['Fire', 'Flying', 'Rock']","1' 04""",17.0 lbs,"['Hydration', 'Shell Armor']","['male', 'female']",3,3,5,3,4,2
+Furfrou,#0676,Normal,Fighting,"3' 11""",61.7 lbs,Fur Coat,"['male', 'female']",5,5,4,4,6,6
+Ting-Lu,#1003,"['Dark', 'Ground']","['Fighting', 'Water', 'Ice', 'Fairy', 'Grass', 'Bug']","8' 10""",1542.6 lbs,Vessel of Ruin,Unknown,"['1', '0']",7,8,4,5,3
+Pignite,#0499,"['Fire', 'Fighting']","['Water', 'Psychic', 'Flying', 'Ground']","3' 03""",122.4 lbs,Blaze,"['male', 'female']",6,6,4,5,4,4
+Deerling,#0585,"['Normal', 'Grass']","['Fire', 'Flying', 'Fighting', 'Ice', 'Poison', 'Bug']","2' 00""",43.0 lbs,"['Chlorophyll', 'Sap Sipper']","['male', 'female']",4,4,3,3,3,5
+Snivy,#0495,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 00""",17.9 lbs,Overgrow,"['male', 'female']",3,3,4,3,4,4
+Weezing,#0110,Poison,"['Psychic', 'Ground']","3' 11""",20.9 lbs,"['Levitate', 'Neutralizing Gas']","['male', 'female']",4,6,8,5,5,4
+Vigoroth,#0288,Normal,Fighting,"4' 07""",102.5 lbs,Vital Spirit,"['male', 'female']",5,5,5,4,4,6
+Machoke,#0067,Fighting,"['Psychic', 'Flying', 'Fairy']","4' 11""",155.4 lbs,"['Guts', 'No Guard']","['male', 'female']",5,6,5,3,4,3
+Rhydon,#0112,"['Ground', 'Rock']","['Steel', 'Ice', 'Water', 'Fighting', 'Grass', 'Ground']","6' 03""",264.6 lbs,"['Rock Head', 'Lightning Rod']","['male', 'female']",7,8,8,3,3,3
+Caterpie,#0010,Bug,"['Fire', 'Flying', 'Rock']","1' 00""",6.4 lbs,Shield Dust,"['male', 'female']",3,2,3,2,2,3
+Garchomp,#0445,"['Dragon', 'Ground']","['Fairy', 'Ice', 'Dragon']","6' 03""",209.4 lbs,Sand Veil,"['male', 'female']",7,8,6,5,5,6
+Alcremie,#0869,Fairy,"['Steel', 'Poison']","1' 00""",1.1 lbs,Sweet Veil,female,4,4,5,8,4,7
+Solrock,#0338,"['Rock', 'Psychic']","['Steel', 'Ghost', 'Water', 'Dark', 'Grass', 'Bug', 'Ground']","3' 11""",339.5 lbs,Levitate,Unknown,6,6,5,4,4,5
+Spinda,#0327,Normal,Fighting,"3' 07""",11.0 lbs,"['Tangled Feet', 'Own Tempo']","['male', 'female']",4,4,4,4,4,4
+Cranidos,#0408,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","2' 11""",69.4 lbs,Mold Breaker,"['male', 'female']",4,8,3,2,2,4
+Gothitelle,#0576,Psychic,"['Ghost', 'Dark', 'Bug']","4' 11""",97.0 lbs,"['Frisk', 'Competitive']","['male', 'female']",5,4,6,6,7,4
+Excadrill,#0530,"['Ground', 'Steel']","['Fire', 'Water', 'Fighting', 'Ground']","2' 04""",89.1 lbs,"['Sand Rush', 'Sand Force']","['male', 'female']",7,8,4,3,4,6
+Jirachi,#0385,"['Steel', 'Psychic']","['Ghost', 'Fire', 'Dark', 'Ground']","1' 00""",2.4 lbs,Serene Grace,Unknown,6,6,6,6,6,6
+Flutter Mane,#0987,"['Ghost', 'Fairy']","['Ghost', 'Steel']","4' 07""",8.8 lbs,Protosynthesis,Unknown,4,4,4,8,8,8
+Milotic,#0350,Water,"['Grass', 'Electric']","20' 04""",357.1 lbs,"['Marvel Scale', 'Competitive']","['male', 'female']",6,4,5,6,8,5
+Aromatisse,#0683,Fairy,"['Steel', 'Poison']","2' 07""",34.2 lbs,Healer,"['male', 'female']",6,5,5,6,6,2
+Monferno,#0391,"['Fire', 'Fighting']","['Water', 'Psychic', 'Flying', 'Ground']","2' 11""",48.5 lbs,Blaze,"['male', 'female']",4,5,4,5,4,5
+Mudsdale,#0750,Ground,"['Water', 'Grass', 'Ice']","8' 02""",2028.3 lbs,"['Own Tempo', 'Stamina']","['male', 'female']",6,8,6,4,5,3
+Zacian,#0888,Fairy,"['Steel', 'Poison']","9' 02""",242.5 lbs,Intrepid Sword,Unknown,6,8,7,7,9,5
+Kyogre,#0382,Water,"['Grass', 'Electric']","14' 09""",776.0 lbs,Drizzle,Unknown,6,6,6,9,9,6
+Audino,#0531,Normal,Fighting,"3' 07""",68.3 lbs,"['Healer', 'Regenerator']","['male', 'female']",7,4,6,4,6,3
+Tandemaus,#0924,Normal,Fighting,"1' 00""",4.0 lbs,"['Run Away', 'Pickup']",Unknown,3,3,3,3,3,5
+Surskit,#0283,"['Bug', 'Water']","['Flying', 'Electric', 'Rock']","1' 08""",3.7 lbs,Swift Swim,"['male', 'female']",3,2,2,3,4,4
+Kricketot,#0401,Bug,"['Fire', 'Flying', 'Rock']","1' 00""",4.9 lbs,Shed Skin,"['male', 'female']",3,2,3,2,3,2
+Quilladin,#0651,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 04""",63.9 lbs,Overgrow,"['male', 'female']",4,5,6,4,4,4
+Urshifu,#0892,"['Fighting', 'Dark']","['Fairy', 'Flying', 'Fighting']","6' 03""",231.5 lbs,Unseen Fist,"['male', 'female']",6,8,6,4,4,6
+Drifloon,#0425,"['Ghost', 'Flying']","['Ghost', 'Dark', 'Electric', 'Ice', 'Rock']","1' 04""",2.6 lbs,"['Aftermath', 'Unburden']","['male', 'female']",6,3,2,4,3,5
+Pichu,#0172,Electric,Ground,"1' 00""",4.4 lbs,Static,"['male', 'female']",2,3,1,3,3,4
+Tynamo,#0602,Electric,Ground,"0' 08""",0.7 lbs,Levitate,"['male', 'female']",3,4,3,3,3,4
+Marshtomp,#0259,"['Water', 'Ground']",Grass,"2' 04""",61.7 lbs,Torrent,"['male', 'female']",5,5,5,4,5,3
+Kadabra,#0064,Psychic,"['Ghost', 'Dark', 'Bug']","4' 03""",124.6 lbs,"['Inner Focus', 'Synchronize']","['male', 'female']",3,3,2,8,5,7
+Herdier,#0507,Normal,Fighting,"2' 11""",32.4 lbs,"['Intimidate', 'Sand Rush']","['male', 'female']",4,5,4,3,4,4
+Slowking,#0199,"['Water', 'Psychic']","['Ghost', 'Dark', 'Grass', 'Electric', 'Bug']","6' 07""",175.3 lbs,"['Oblivious', 'Own Tempo']","['male', 'female']",6,5,5,6,7,2
+Wynaut,#0360,Psychic,"['Ghost', 'Dark', 'Bug']","2' 00""",30.9 lbs,Shadow Tag,"['male', 'female']",6,2,3,2,3,2
+Litwick,#0607,"['Ghost', 'Fire']","['Ghost', 'Dark', 'Ground', 'Water', 'Rock']","1' 00""",6.8 lbs,"['Flash Fire', 'Flame Body']","['male', 'female']",3,2,4,4,4,2
+Ursaring,#0217,Normal,Fighting,"5' 11""",277.3 lbs,"['Guts', 'Quick Feet']","['male', 'female']",6,8,5,5,5,4
+Bunnelby,#0659,Normal,Fighting,"1' 04""",11.0 lbs,"['Pickup', 'Cheek Pouch']","['male', 'female']",3,3,3,2,3,4
+Hakamo-o,#0783,"['Dragon', 'Fighting']","['Fairy', 'Flying', 'Psychic', 'Ice', 'Dragon']","3' 11""",103.6 lbs,"['Soundproof', 'Bulletproof']","['male', 'female']",4,5,6,4,5,4
+Mantine,#0226,"['Water', 'Flying']","['Electric', 'Rock']","6' 11""",485.0 lbs,"['Water Absorb', 'Swift Swim']","['male', 'female']",5,3,5,5,9,5
+Kirlia,#0281,"['Psychic', 'Fairy']","['Ghost', 'Steel', 'Poison']","2' 07""",44.5 lbs,"['Synchronize', 'Trace']","['male', 'female']",3,3,3,4,4,3
+Luxio,#0404,Electric,Ground,"2' 11""",67.2 lbs,"['Intimidate', 'Rivalry']","['male', 'female']",4,5,3,4,3,4
+Vullaby,#0629,"['Dark', 'Flying']","['Fairy', 'Electric', 'Ice', 'Rock']","1' 08""",19.8 lbs,"['Big Pecks', 'Overcoat']",female,5,4,5,3,4,4
+Impidimp,#0859,"['Dark', 'Fairy']","['Steel', 'Fairy', 'Poison']","1' 04""",12.1 lbs,"['Frisk', 'Prankster']",male,3,3,2,4,3,3
+Hattrem,#0857,Psychic,"['Ghost', 'Dark', 'Bug']","2' 00""",10.6 lbs,"['Anticipation', 'Healer']",female,4,3,4,6,5,3
+Goldeen,#0118,Water,"['Grass', 'Electric']","2' 00""",33.1 lbs,"['Swift Swim', 'Water Veil']","['male', 'female']",3,4,4,3,3,4
+Grotle,#0388,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","3' 07""",213.8 lbs,Overgrow,"['male', 'female']",5,6,5,4,4,3
+Rattata,#0019,Normal,Fighting,"1' 00""",7.7 lbs,"['Run Away', 'Guts']","['male', 'female']",2,4,3,2,3,5
+Lampent,#0608,"['Ghost', 'Fire']","['Ghost', 'Dark', 'Ground', 'Water', 'Rock']","2' 00""",28.7 lbs,"['Flash Fire', 'Flame Body']","['male', 'female']",4,3,4,6,4,4
+Gothorita,#0575,Psychic,"['Ghost', 'Dark', 'Bug']","2' 04""",39.7 lbs,"['Frisk', 'Competitive']","['male', 'female']",4,3,5,5,5,4
+Riolu,#0447,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 04""",44.5 lbs,"['Inner Focus', 'Steadfast']","['male', 'female']",3,5,3,3,3,4
+Simisear,#0514,Fire,"['Water', 'Ground', 'Rock']","3' 03""",61.7 lbs,Gluttony,"['male', 'female']",5,6,4,6,4,6
+Elgyem,#0605,Psychic,"['Ghost', 'Dark', 'Bug']","1' 08""",19.8 lbs,"['Synchronize', 'Telepathy']","['male', 'female']",4,4,4,5,4,2
+Fearow,#0022,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","3' 11""",83.8 lbs,Keen Eye,"['male', 'female']",4,6,4,4,4,6
+Golett,#0622,"['Ground', 'Ghost']","['Water', 'Ghost', 'Grass', 'Dark', 'Ice']","3' 03""",202.8 lbs,"['Iron Fist', 'Klutz']",Unknown,4,5,3,3,3,3
+Pyukumuku,#0771,Water,"['Grass', 'Electric']","1' 00""",2.6 lbs,Innards Out,"['male', 'female']",4,4,8,2,8,1
+Solgaleo,#0791,"['Psychic', 'Steel']","['Ghost', 'Fire', 'Dark', 'Ground']","11' 02""",507.1 lbs,Full Metal Body,Unknown,9,9,7,7,6,6
+Croagunk,#0453,"['Poison', 'Fighting']","['Psychic', 'Flying', 'Ground']","2' 04""",50.7 lbs,"['Dry Skin', 'Anticipation']","['male', 'female']",3,4,3,4,3,3
+Petilil,#0548,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 08""",14.6 lbs,"['Chlorophyll', 'Own Tempo']",female,3,3,3,5,3,2
+Whismur,#0293,Normal,Fighting,"2' 00""",35.9 lbs,Soundproof,"['male', 'female']",4,3,2,3,2,2
+Venusaur,#0003,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","6' 07""",220.5 lbs,Overgrow,"['male', 'female']",5,5,5,6,6,5
+Lilligant,#0549,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","3' 07""",35.9 lbs,"['Chlorophyll', 'Own Tempo']",female,5,4,5,7,5,6
+Golurk,#0623,"['Ground', 'Ghost']","['Water', 'Ghost', 'Grass', 'Dark', 'Ice']","9' 02""",727.5 lbs,"['Iron Fist', 'Klutz']",Unknown,6,8,5,4,5,4
+Darmanitan,#0555,Fire,"['Water', 'Ground', 'Rock']","4' 03""",204.8 lbs,Sheer Force,"['male', 'female']",7,9,4,2,4,6
+Bellossom,#0182,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 04""",12.8 lbs,Chlorophyll,"['male', 'female']",5,5,6,6,6,3
+Shedinja,#0292,"['Bug', 'Ghost']","['Fire', 'Ghost', 'Flying', 'Dark', 'Rock']","2' 07""",2.6 lbs,Wonder Guard,Unknown,1,6,3,2,2,3
+Wattrel,#0940,"['Electric', 'Flying']","['Ice', 'Rock']","1' 04""",7.9 lbs,"['Volt Absorb', 'Wind Power']","['male', 'female']",3,3,3,4,3,5
+Murkrow,#0198,"['Dark', 'Flying']","['Fairy', 'Electric', 'Ice', 'Rock']","1' 08""",4.6 lbs,"['Insomnia', 'Super Luck']","['male', 'female']",4,5,3,5,3,6
+Sizzlipede,#0850,"['Fire', 'Bug']","['Water', 'Flying', 'Rock']","2' 04""",2.2 lbs,"['Flash Fire', 'White Smoke']","['male', 'female']",3,4,3,3,3,3
+Carbink,#0703,"['Rock', 'Fairy']","['Steel', 'Water', 'Grass', 'Ground']","1' 00""",12.6 lbs,Clear Body,Unknown,3,3,9,3,9,3
+Frigibax,#0996,"['Dragon', 'Ice']","['Steel', 'Fairy', 'Rock', 'Fighting', 'Dragon']","1' 08""",37.5 lbs,Thermal Exchange,"['male', 'female']",4,5,3,3,3,4
+Woobat,#0527,"['Psychic', 'Flying']","['Ghost', 'Dark', 'Electric', 'Ice', 'Rock']","1' 04""",4.6 lbs,"['Unaware', 'Klutz']","['male', 'female']",4,3,3,4,3,5
+Nidorina,#0030,Poison,"['Psychic', 'Ground']","2' 07""",44.1 lbs,"['Poison Point', 'Rivalry']",female,5,4,4,4,4,4
+Barraskewda,#0847,Water,"['Grass', 'Electric']","4' 03""",66.1 lbs,Swift Swim,"['male', 'female']",4,8,4,4,3,8
+Cascoon,#0268,Bug,"['Fire', 'Flying', 'Rock']","2' 04""",25.4 lbs,Shed Skin,"['male', 'female']",3,3,4,2,2,1
+Togedemaru,#0777,"['Electric', 'Steel']","['Fire', 'Fighting', 'Ground']","1' 00""",7.3 lbs,"['Lightning Rod', 'Iron Barbs']","['male', 'female']",4,6,4,3,5,6
+Porygon-Z,#0474,Normal,Fighting,"2' 11""",75.0 lbs,"['Adaptability', 'Download']",Unknown,5,5,5,8,5,6
+Pupitar,#0247,"['Rock', 'Ground']","['Steel', 'Fighting', 'Water', 'Ice', 'Grass', 'Ground']","3' 11""",335.1 lbs,Shed Skin,"['male', 'female']",5,5,5,4,5,3
+Pachirisu,#0417,Electric,Ground,"1' 04""",8.6 lbs,"['Run Away', 'Pickup']","['male', 'female']",4,3,5,3,6,6
+Noivern,#0715,"['Flying', 'Dragon']","['Fairy', 'Rock', 'Ice', 'Dragon']","4' 11""",187.4 lbs,"['Frisk', 'Infiltrator']","['male', 'female']",5,5,5,6,5,8
+Honedge,#0679,"['Steel', 'Ghost']","['Fire', 'Ghost', 'Dark', 'Ground']","2' 07""",4.4 lbs,No Guard,"['male', 'female']",3,5,6,3,3,2
+Volbeat,#0313,Bug,"['Fire', 'Flying', 'Rock']","2' 04""",39.0 lbs,"['Swarm', 'Illuminate']",male,4,5,5,3,5,5
+Type: Null,#0772,Normal,Fighting,"6' 03""",265.7 lbs,Battle Armor,Unknown,6,6,6,6,6,4
+Gumshoos,#0735,Normal,Fighting,"2' 04""",31.3 lbs,"['Strong Jaw', 'Stakeout']","['male', 'female']",6,7,4,4,4,3
+Braviary,#0628,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","4' 11""",90.4 lbs,"['Keen Eye', 'Sheer Force']",male,6,8,5,4,5,5
+Swadloon,#0541,"['Bug', 'Grass']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock', 'Bug']","1' 08""",16.1 lbs,"['Chlorophyll', 'Leaf Guard']","['male', 'female']",4,4,6,3,5,3
+Latios,#0381,"['Dragon', 'Psychic']","['Ghost', 'Ice', 'Dragon', 'Dark', 'Fairy', 'Bug']","6' 07""",132.3 lbs,Levitate,male,5,6,5,8,7,7
+Maractus,#0556,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","3' 03""",61.7 lbs,"['Chlorophyll', 'Water Absorb']","['male', 'female']",5,6,4,7,4,4
+Quaquaval,#0914,"['Water', 'Fighting']","['Fairy', 'Grass', 'Flying', 'Psychic', 'Electric']","5' 11""",136.5 lbs,Torrent,"['male', 'female']",5,8,5,5,5,5
+Luvdisc,#0370,Water,"['Grass', 'Electric']","2' 00""",19.2 lbs,Swift Swim,"['male', 'female']",3,2,4,3,4,6
+Beedrill,#0015,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","3' 03""",65.0 lbs,Swarm,"['male', 'female']",4,6,3,3,5,5
+Whimsicott,#0547,"['Grass', 'Fairy']","['Steel', 'Fire', 'Flying', 'Ice', 'Poison']","2' 04""",14.6 lbs,"['Prankster', 'Infiltrator']","['male', 'female']",4,4,5,5,5,7
+Metang,#0375,"['Steel', 'Psychic']","['Ghost', 'Fire', 'Dark', 'Ground']","3' 11""",446.4 lbs,Clear Body,Unknown,4,5,6,4,5,3
+Aegislash,#0681,"['Steel', 'Ghost']","['Fire', 'Ghost', 'Dark', 'Ground']","5' 07""",116.8 lbs,Stance Change,"['male', 'female']",4,3,9,3,9,4
+Snorlax,#0143,Normal,Fighting,"6' 11""",1014.1 lbs,"['Thick Fat', 'Immunity']","['male', 'female']","['1', '0']",7,4,4,7,2
+Wailord,#0321,Water,"['Grass', 'Electric']","47' 07""",877.4 lbs,"['Oblivious', 'Water Veil']","['male', 'female']","['1', '0']",6,3,6,3,4
+Jigglypuff,#0039,"['Normal', 'Fairy']","['Steel', 'Poison']","1' 08""",12.1 lbs,"['Cute Charm', 'Competitive']","['male', 'female']",7,3,2,3,2,2
+Dragonair,#0148,Dragon,"['Fairy', 'Ice', 'Dragon']","13' 01""",36.4 lbs,Shed Skin,"['male', 'female']",4,5,4,5,5,5
+Wimpod,#0767,"['Bug', 'Water']","['Flying', 'Electric', 'Rock']","1' 08""",26.5 lbs,Wimp Out,"['male', 'female']",2,3,3,2,2,5
+Glameow,#0431,Normal,Fighting,"1' 08""",8.6 lbs,"['Limber', 'Own Tempo']","['male', 'female']",3,4,3,3,3,5
+Raboot,#0814,Fire,"['Water', 'Ground', 'Rock']","2' 00""",19.8 lbs,Blaze,"['male', 'female']",4,6,4,4,6,4
+Uxie,#0480,Psychic,"['Ghost', 'Dark', 'Bug']","1' 00""",0.7 lbs,Levitate,Unknown,5,5,8,5,8,6
+Torracat,#0726,Fire,"['Water', 'Ground', 'Rock']","2' 04""",55.1 lbs,Blaze,"['male', 'female']",4,5,3,5,3,6
+Diggersby,#0660,"['Normal', 'Ground']","['Water', 'Grass', 'Fighting', 'Ice']","3' 03""",93.5 lbs,"['Pickup', 'Cheek Pouch']","['male', 'female']",5,4,5,3,5,5
+Scatterbug,#0664,Bug,"['Fire', 'Flying', 'Rock']","1' 00""",5.5 lbs,"['Shield Dust', 'Compound Eyes']","['male', 'female']",3,3,3,2,2,3
+Corphish,#0341,Water,"['Grass', 'Electric']","2' 00""",25.4 lbs,"['Shell Armor', 'Hyper Cutter']","['male', 'female']",3,5,4,3,3,3
+Skeledirge,#0911,"['Fire', 'Ghost']","['Water', 'Ghost', 'Ground', 'Dark', 'Rock']","5' 03""",719.8 lbs,Blaze,"['male', 'female']",7,5,6,7,5,4
+Politoed,#0186,Water,"['Grass', 'Electric']","3' 07""",74.7 lbs,"['Damp', 'Water Absorb']","['male', 'female']",6,5,5,6,6,5
+Magcargo,#0219,"['Fire', 'Rock']","['Water', 'Ground', 'Fighting', 'Rock']","2' 07""",121.3 lbs,"['Flame Body', 'Magma Armor']","['male', 'female']",4,3,8,6,5,2
+Jangmo-o,#0782,Dragon,"['Fairy', 'Ice', 'Dragon']","2' 00""",65.5 lbs,"['Soundproof', 'Bulletproof']","['male', 'female']",3,4,4,3,3,3
+Banette,#0354,Ghost,"['Ghost', 'Dark']","3' 07""",27.6 lbs,"['Insomnia', 'Frisk']","['male', 'female']",4,7,4,5,4,4
+Comfey,#0764,Fairy,"['Steel', 'Poison']","0' 04""",0.7 lbs,"['Flower Veil', 'Triage']","['male', 'female']",3,4,6,5,7,6
+Gossifleur,#0829,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 04""",4.9 lbs,"['Regenerator', 'Cotton Down']","['male', 'female']",3,3,4,3,4,1
+Flareon,#0136,Fire,"['Water', 'Ground', 'Rock']","2' 11""",55.1 lbs,Flash Fire,"['male', 'female']",4,8,4,6,7,4
+Kartana,#0798,"['Grass', 'Steel']","['Fire', 'Fighting']","1' 00""",0.2 lbs,Beast Boost,Unknown,4,"['1', '1']",8,4,2,7
+Rapidash,#0078,Fire,"['Water', 'Ground', 'Rock']","5' 07""",209.4 lbs,"['Run Away', 'Flash Fire']","['male', 'female']",4,6,5,5,5,7
+Palkia,#0484,"['Water', 'Dragon']","['Fairy', 'Dragon']","13' 09""",740.8 lbs,Pressure,Unknown,6,8,6,9,8,6
+Tangela,#0114,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","3' 03""",77.2 lbs,"['Chlorophyll', 'Leaf Guard']","['male', 'female']",4,4,7,6,3,4
+Gholdengo,#1000,"['Steel', 'Ghost']","['Fire', 'Ghost', 'Dark', 'Ground']","3' 11""",66.1 lbs,Good as Gold,Unknown,6,4,6,8,6,5
+Mareep,#0179,Electric,Ground,"2' 00""",17.2 lbs,Static,"['male', 'female']",4,3,3,4,3,3
+Celesteela,#0797,"['Steel', 'Flying']","['Fire', 'Electric']","30' 02""",2204.4 lbs,Beast Boost,Unknown,6,6,7,7,6,4
+Octillery,#0224,Water,"['Grass', 'Electric']","2' 11""",62.8 lbs,"['Sniper', 'Suction Cups']","['male', 'female']",5,7,5,7,5,3
+Grimer,#0088,Poison,"['Psychic', 'Ground']","2' 11""",66.1 lbs,"['Stench', 'Sticky Hold']","['male', 'female']",5,5,3,3,3,2
+Drizzile,#0817,Water,"['Grass', 'Electric']","2' 04""",25.4 lbs,Torrent,"['male', 'female']",4,4,4,4,6,6
+Furret,#0162,Normal,Fighting,"5' 11""",71.7 lbs,"['Keen Eye', 'Run Away']","['male', 'female']",5,5,4,3,4,6
+Keldeo,#0647,"['Water', 'Fighting']","['Fairy', 'Grass', 'Flying', 'Psychic', 'Electric']","4' 07""",106.9 lbs,Justified,Unknown,6,5,6,8,6,7
+Crawdaunt,#0342,"['Water', 'Dark']","['Fairy', 'Grass', 'Electric', 'Fighting', 'Bug']","3' 07""",72.3 lbs,"['Shell Armor', 'Hyper Cutter']","['male', 'female']",4,8,5,6,4,4
+Mime Jr.,#0439,"['Psychic', 'Fairy']","['Ghost', 'Steel', 'Poison']","2' 00""",28.7 lbs,"['Soundproof', 'Filter']","['male', 'female']",2,2,3,5,6,4
+Rhyhorn,#0111,"['Ground', 'Rock']","['Steel', 'Ice', 'Water', 'Fighting', 'Grass', 'Ground']","3' 03""",253.5 lbs,"['Rock Head', 'Lightning Rod']","['male', 'female']",5,5,6,2,2,2
+Feebas,#0349,Water,"['Grass', 'Electric']","2' 00""",16.3 lbs,"['Oblivious', 'Swift Swim']","['male', 'female']",2,1,2,1,4,5
+Quaxwell,#0913,Water,"['Grass', 'Electric']","3' 11""",47.4 lbs,Torrent,"['male', 'female']",5,5,4,4,4,4
+Butterfree,#0012,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","3' 07""",70.5 lbs,Compound Eyes,"['male', 'female']",4,3,3,6,5,5
+Gourgeist,#0711,"['Ghost', 'Grass']","['Ghost', 'Fire', 'Flying', 'Dark', 'Ice']","2' 11""",27.6 lbs,"['Pickup', 'Frisk']","['male', 'female']",4,6,8,4,5,5
+Ambipom,#0424,Normal,Fighting,"3' 11""",44.8 lbs,"['Pickup', 'Technician']","['male', 'female']",5,6,4,4,4,7
+Drowzee,#0096,Psychic,"['Ghost', 'Dark', 'Bug']","3' 03""",71.4 lbs,"['Insomnia', 'Forewarn']","['male', 'female']",4,3,3,3,6,3
+Silicobra,#0843,Ground,"['Water', 'Grass', 'Ice']","7' 03""",16.8 lbs,"['Shed Skin', 'Sand Spit']","['male', 'female']",4,4,5,3,3,3
+Chesnaught,#0652,"['Grass', 'Fighting']","['Fire', 'Psychic', 'Flying', 'Ice', 'Poison', 'Fairy']","5' 03""",198.4 lbs,Overgrow,"['male', 'female']",6,7,8,5,5,4
+Floatzel,#0419,Water,"['Grass', 'Electric']","3' 07""",73.9 lbs,Swift Swim,"['male', 'female']",5,7,4,5,3,7
+Bagon,#0371,Dragon,"['Fairy', 'Ice', 'Dragon']","2' 00""",92.8 lbs,Rock Head,"['male', 'female']",3,5,4,3,2,3
+Brute Bonnet,#0986,"['Grass', 'Dark']","['Ice', 'Fire', 'Flying', 'Poison', 'Fighting', 'Fairy', 'Bug']","3' 11""",46.3 lbs,Protosynthesis,Unknown,7,8,6,5,6,4
+Raticate,#0020,Normal,Fighting,"2' 04""",40.8 lbs,"['Run Away', 'Guts']","['male', 'female']",4,5,4,3,5,6
+Cacturne,#0332,"['Grass', 'Dark']","['Ice', 'Fire', 'Flying', 'Poison', 'Fighting', 'Fairy', 'Bug']","4' 03""",170.6 lbs,Sand Veil,"['male', 'female']",5,7,4,7,4,4
+Exeggutor,#0103,"['Grass', 'Psychic']","['Ghost', 'Fire', 'Flying', 'Ice', 'Dark', 'Poison', 'Bug']","6' 07""",264.6 lbs,Chlorophyll,"['male', 'female']",6,6,5,8,5,4
+Arrokuda,#0846,Water,"['Grass', 'Electric']","1' 08""",2.2 lbs,Swift Swim,"['male', 'female']",3,4,3,3,2,4
+Lugia,#0249,"['Psychic', 'Flying']","['Ghost', 'Dark', 'Electric', 'Ice', 'Rock']","17' 01""",476.2 lbs,Pressure,Unknown,7,6,8,6,"['1', '0']",7
+Silvally,#0773,Normal,Fighting,"7' 07""",221.6 lbs,RKS System,Unknown,6,6,6,6,6,6
+Marill,#0183,"['Water', 'Fairy']","['Grass', 'Electric', 'Poison']","1' 04""",18.7 lbs,"['Thick Fat', 'Huge Power']","['male', 'female']",5,2,3,2,3,3
+Plusle,#0311,Electric,Ground,"1' 04""",9.3 lbs,Plus,"['male', 'female']",4,3,3,5,5,6
+Iron Jugulis,#0993,"['Dark', 'Flying']","['Fairy', 'Electric', 'Ice', 'Rock']","4' 03""",244.7 lbs,Quark Drive,Unknown,6,5,6,8,5,7
+Trumbeak,#0732,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","2' 00""",32.6 lbs,"['Keen Eye', 'Skill Link']","['male', 'female']",4,5,3,3,3,5
+Carkol,#0838,"['Rock', 'Fire']","['Water', 'Ground', 'Fighting', 'Rock']","3' 07""",172.0 lbs,"['Flame Body', 'Steam Engine']","['male', 'female']",5,4,6,4,5,3
+Dondozo,#0977,Water,"['Grass', 'Electric']","39' 04""",485.0 lbs,"['Oblivious', 'Unaware']","['male', 'female']",9,6,7,4,4,3
+Abra,#0063,Psychic,"['Ghost', 'Dark', 'Bug']","2' 11""",43.0 lbs,"['Inner Focus', 'Synchronize']","['male', 'female']",2,2,1,7,4,6
+Ribombee,#0743,"['Bug', 'Fairy']","['Fire', 'Steel', 'Flying', 'Poison', 'Rock']","0' 08""",1.1 lbs,"['Shield Dust', 'Honey Gather']","['male', 'female']",4,4,4,6,5,8
+Happiny,#0440,Normal,Fighting,"2' 00""",53.8 lbs,"['Natural Cure', 'Serene Grace']",female,6,1,1,1,4,2
+Espurr,#0677,Psychic,"['Ghost', 'Dark', 'Bug']","1' 00""",7.7 lbs,"['Keen Eye', 'Infiltrator']","['male', 'female']",4,3,4,4,4,4
+Pyroar,#0668,"['Fire', 'Normal']","['Water', 'Ground', 'Fighting', 'Rock']","4' 11""",179.7 lbs,"['Rivalry', 'Unnerve']",male,6,4,5,7,4,7
+Glaceon,#0471,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","2' 07""",57.1 lbs,Snow Cloak,"['male', 'female']",4,4,7,8,6,4
+Buzzwole,#0794,"['Bug', 'Fighting']","['Fire', 'Psychic', 'Flying', 'Fairy']","7' 10""",735.5 lbs,Beast Boost,Unknown,7,9,9,4,4,5
+Gligar,#0207,"['Ground', 'Flying']","['Water', 'Ice']","3' 07""",142.9 lbs,"['Sand Veil', 'Hyper Cutter']","['male', 'female']",4,5,7,3,4,5
+Electivire,#0466,Electric,Ground,"5' 11""",305.6 lbs,Motor Drive,"['male', 'female']",5,8,4,6,5,6
+Hippopotas,#0449,Ground,"['Water', 'Grass', 'Ice']","2' 07""",109.1 lbs,Sand Stream,"['male', 'female']",4,5,5,3,3,2
+Tapu Fini,#0788,"['Water', 'Fairy']","['Grass', 'Electric', 'Poison']","4' 03""",46.7 lbs,Misty Surge,Unknown,5,5,7,6,8,5
+Cryogonal,#0615,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","3' 07""",326.3 lbs,Levitate,Unknown,5,3,3,6,8,7
+Iron Moth,#0994,"['Fire', 'Poison']","['Water', 'Psychic', 'Ground', 'Rock']","3' 11""",79.4 lbs,Quark Drive,Unknown,5,5,4,9,7,7
+Yamask,#0562,Ghost,"['Ghost', 'Dark']","1' 08""",3.3 lbs,Mummy,"['male', 'female']",3,2,5,4,4,2
+Sentret,#0161,Normal,Fighting,"2' 07""",13.2 lbs,"['Keen Eye', 'Run Away']","['male', 'female']",3,3,2,3,3,2
+Delphox,#0655,"['Fire', 'Psychic']","['Ghost', 'Dark', 'Ground', 'Water', 'Rock']","4' 11""",86.0 lbs,Blaze,"['male', 'female']",5,5,5,7,6,7
+Zangoose,#0335,Normal,Fighting,"4' 03""",88.8 lbs,Immunity,"['male', 'female']",5,7,4,4,4,6
+Voltorb,#0100,Electric,Ground,"1' 08""",22.9 lbs,"['Static', 'Soundproof']",Unknown,3,2,3,4,4,6
+Suicune,#0245,Water,"['Grass', 'Electric']","6' 07""",412.3 lbs,Pressure,Unknown,6,5,7,6,7,5
+Sandy Shocks,#0989,"['Electric', 'Ground']","['Water', 'Grass', 'Ice', 'Ground']","7' 07""",132.3 lbs,Protosynthesis,Unknown,5,5,6,8,5,6
+Mothim,#0414,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","2' 11""",51.4 lbs,Swarm,male,5,6,3,6,3,4
+Tyrogue,#0236,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 04""",46.3 lbs,"['Guts', 'Steadfast']",male,3,3,3,3,3,3
+Zeraora,#0807,Electric,Ground,"4' 11""",98.1 lbs,Volt Absorb,Unknown,6,7,5,6,5,9
+Stantler,#0234,Normal,Fighting,"4' 07""",157.0 lbs,"['Intimidate', 'Frisk']","['male', 'female']",5,6,4,5,4,5
+Regirock,#0377,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","5' 07""",507.1 lbs,Clear Body,Unknown,5,6,"['1', '2']",3,6,3
+Walrein,#0365,"['Ice', 'Water']","['Grass', 'Electric', 'Fighting', 'Rock']","4' 07""",332.0 lbs,"['Thick Fat', 'Ice Body']","['male', 'female']",7,5,6,6,6,4
+Archen,#0566,"['Rock', 'Flying']","['Steel', 'Water', 'Electric', 'Ice', 'Rock']","1' 08""",20.9 lbs,Defeatist,"['male', 'female']",4,7,3,5,3,5
+Houndour,#0228,"['Dark', 'Fire']","['Water', 'Ground', 'Fighting', 'Rock']","2' 00""",23.8 lbs,"['Flash Fire', 'Early Bird']","['male', 'female']",3,4,2,5,3,4
+Meditite,#0307,"['Fighting', 'Psychic']","['Ghost', 'Fairy', 'Flying']","2' 00""",24.7 lbs,Pure Power,"['male', 'female']",2,3,4,3,4,4
+Eevee,#0133,Normal,Fighting,"1' 00""",14.3 lbs,"['Run Away', 'Adaptability']","['male', 'female']",4,4,3,3,4,4
+Ninjask,#0291,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","2' 07""",26.5 lbs,Speed Boost,"['male', 'female']",4,6,3,3,3,"['1', '0']"
+Marowak,#0105,Ground,"['Water', 'Grass', 'Ice']","3' 03""",99.2 lbs,"['Rock Head', 'Lightning Rod']","['male', 'female']",4,5,7,3,5,3
+Nidoqueen,#0031,"['Poison', 'Ground']","['Water', 'Psychic', 'Ice', 'Ground']","4' 03""",132.3 lbs,"['Poison Point', 'Rivalry']",female,6,6,6,5,5,5
+Reshiram,#0643,"['Dragon', 'Fire']","['Ground', 'Rock', 'Dragon']","10' 06""",727.5 lbs,Turboblaze,Unknown,6,8,6,9,8,6
+Miltank,#0241,Normal,Fighting,"3' 11""",166.4 lbs,"['Thick Fat', 'Scrappy']",female,6,5,7,3,5,6
+Stunfisk,#0618,"['Ground', 'Electric']","['Water', 'Grass', 'Ice', 'Ground']","2' 04""",24.3 lbs,"['Static', 'Limber']","['male', 'female']",7,4,5,5,6,2
+Snover,#0459,"['Grass', 'Ice']","['Steel', 'Fire', 'Flying', 'Poison', 'Fighting', 'Rock', 'Bug']","3' 03""",111.3 lbs,Snow Warning,"['male', 'female']",4,4,3,4,4,3
+Zamazenta,#0889,Fighting,"['Psychic', 'Flying', 'Fairy']","9' 06""",463.0 lbs,Dauntless Shield,Unknown,6,8,7,7,9,5
+Shellder,#0090,Water,"['Grass', 'Electric']","1' 00""",8.8 lbs,"['Shell Armor', 'Skill Link']","['male', 'female']",2,4,6,3,2,3
+Cursola,#0864,Ghost,"['Ghost', 'Dark']","3' 03""",0.9 lbs,Weak Armor,"['male', 'female']",4,6,3,8,2,9
+Virizion,#0640,"['Grass', 'Fighting']","['Fire', 'Psychic', 'Flying', 'Ice', 'Poison', 'Fairy']","6' 07""",440.9 lbs,Justified,Unknown,6,6,5,6,8,7
+Klefki,#0707,"['Steel', 'Fairy']","['Fire', 'Ground']","0' 08""",6.6 lbs,Prankster,"['male', 'female']",4,5,6,5,6,5
+Chespin,#0650,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 04""",19.8 lbs,Overgrow,"['male', 'female']",4,4,4,3,3,3
+Ledyba,#0165,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","3' 03""",23.8 lbs,"['Swarm', 'Early Bird']","['male', 'female']",3,2,2,3,5,4
+Sandshrew,#0027,Ground,"['Water', 'Grass', 'Ice']","2' 00""",26.5 lbs,Sand Veil,"['male', 'female']",3,5,5,2,2,3
+Toxel,#0848,"['Electric', 'Poison']","['Psychic', 'Ground']","1' 04""",24.3 lbs,"['Static', 'Rattled']","['male', 'female']",3,3,3,4,3,3
+Squirtle,#0007,Water,"['Grass', 'Electric']","1' 08""",19.8 lbs,Torrent,"['male', 'female']",3,3,4,3,4,3
+Shellos,#0422,Water,"['Grass', 'Electric']","1' 00""",13.9 lbs,"['Sticky Hold', 'Storm Drain']","['male', 'female']",5,3,3,4,4,2
+Snubbull,#0209,Fairy,"['Steel', 'Poison']","2' 00""",17.2 lbs,"['Run Away', 'Intimidate']","['male', 'female']",4,5,3,3,3,2
+Zweilous,#0634,"['Dark', 'Dragon']","['Fairy', 'Fighting', 'Bug', 'Ice', 'Dragon']","4' 07""",110.2 lbs,Hustle,"['male', 'female']",5,5,5,4,5,4
+Dracozolt,#0880,"['Electric', 'Dragon']","['Fairy', 'Ground', 'Ice', 'Dragon']","5' 11""",418.9 lbs,"['Volt Absorb', 'Hustle']",Unknown,6,6,6,5,5,5
+Flaaffy,#0180,Electric,Ground,"2' 07""",29.3 lbs,Static,"['male', 'female']",5,4,4,5,4,3
+Skwovet,#0819,Normal,Fighting,"1' 00""",5.5 lbs,Cheek Pouch,"['male', 'female']",5,4,4,3,3,2
+Crobat,#0169,"['Poison', 'Flying']","['Psychic', 'Electric', 'Ice', 'Rock']","5' 11""",165.3 lbs,Inner Focus,"['male', 'female']",5,6,5,5,5,8
+Roaring Moon,#1005,"['Dragon', 'Dark']","['Fairy', 'Ice', 'Bug', 'Fighting', 'Dragon']","6' 07""",837.8 lbs,Protosynthesis,Unknown,7,9,5,4,6,7
+Stufful,#0759,"['Normal', 'Fighting']","['Psychic', 'Flying', 'Fairy', 'Fighting']","1' 08""",15.0 lbs,"['Klutz', 'Fluffy']","['male', 'female']",5,5,3,3,3,3
+Houndoom,#0229,"['Dark', 'Fire']","['Water', 'Ground', 'Fighting', 'Rock']","4' 07""",77.2 lbs,"['Flash Fire', 'Early Bird']","['male', 'female']",5,6,3,7,5,6
+Finneon,#0456,Water,"['Grass', 'Electric']","1' 04""",15.4 lbs,"['Swift Swim', 'Storm Drain']","['male', 'female']",3,3,4,3,4,4
+Nacli,#0932,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","1' 04""",35.3 lbs,"['Sturdy', 'Purifying Salt']","['male', 'female']",4,4,5,3,3,2
+Decidueye,#0724,"['Grass', 'Ghost']","['Ghost', 'Fire', 'Flying', 'Dark', 'Ice']","5' 03""",80.7 lbs,Overgrow,"['male', 'female']",5,7,5,6,6,5
+Lunala,#0792,"['Psychic', 'Ghost']","['Ghost', 'Dark']","13' 01""",264.6 lbs,Shadow Shield,Unknown,9,7,6,9,7,6
+Dratini,#0147,Dragon,"['Fairy', 'Ice', 'Dragon']","5' 11""",7.3 lbs,Shed Skin,"['male', 'female']",3,4,3,3,3,3
+Sandaconda,#0844,Ground,"['Water', 'Grass', 'Ice']","12' 06""",144.4 lbs,"['Shed Skin', 'Sand Spit']","['male', 'female']",5,7,8,4,5,5
+Stoutland,#0508,Normal,Fighting,"3' 11""",134.5 lbs,"['Intimidate', 'Sand Rush']","['male', 'female']",5,7,6,3,6,5
+Pumpkaboo,#0710,"['Ghost', 'Grass']","['Ghost', 'Fire', 'Flying', 'Dark', 'Ice']","1' 04""",11.0 lbs,"['Pickup', 'Frisk']","['male', 'female']",3,4,5,3,4,3
+Bastiodon,#0411,"['Rock', 'Steel']","['Water', 'Fighting', 'Ground']","4' 03""",329.6 lbs,Sturdy,"['male', 'female']",4,4,"['1', '0']",3,9,2
+Larvesta,#0636,"['Bug', 'Fire']","['Water', 'Flying', 'Rock']","3' 07""",63.5 lbs,Flame Body,"['male', 'female']",4,5,4,3,4,4
+Phantump,#0708,"['Ghost', 'Grass']","['Ghost', 'Fire', 'Flying', 'Dark', 'Ice']","1' 04""",15.4 lbs,"['Natural Cure', 'Frisk']","['male', 'female']",3,5,3,3,4,3
+Spewpa,#0665,Bug,"['Fire', 'Flying', 'Rock']","1' 00""",18.5 lbs,Shed Skin,"['male', 'female']",3,2,4,2,2,2
+Kilowattrel,#0941,"['Electric', 'Flying']","['Ice', 'Rock']","4' 07""",85.1 lbs,"['Volt Absorb', 'Wind Power']","['male', 'female']",5,5,4,7,4,8
+Articuno,#0144,"['Ice', 'Flying']","['Steel', 'Fire', 'Electric', 'Rock']","5' 07""",122.1 lbs,Pressure,Unknown,6,5,6,6,8,5
+Helioptile,#0694,"['Electric', 'Normal']","['Fighting', 'Ground']","1' 08""",13.2 lbs,"['Sand Veil', 'Dry Skin']","['male', 'female']",3,3,2,4,3,5
+Arceus,#0493,Normal,Fighting,"10' 06""",705.5 lbs,Multitype,Unknown,8,8,8,8,8,8
+Centiskorch,#0851,"['Fire', 'Bug']","['Water', 'Flying', 'Rock']","9' 10""",264.6 lbs,"['Flash Fire', 'White Smoke']","['male', 'female']",6,7,4,6,6,4
+Kabutops,#0141,"['Rock', 'Water']","['Grass', 'Electric', 'Fighting', 'Ground']","4' 03""",89.3 lbs,"['Swift Swim', 'Battle Armor']","['male', 'female']",4,7,7,4,5,5
+Sableye,#0302,"['Dark', 'Ghost']",Fairy,"1' 08""",24.3 lbs,"['Keen Eye', 'Stall']","['male', 'female']",3,5,5,4,4,3
+Tinkaton,#0959,"['Fairy', 'Steel']","['Fire', 'Ground']","2' 04""",248.7 lbs,"['Own Tempo', 'Mold Breaker']",female,5,5,5,5,7,6
+Maschiff,#0942,Dark,"['Fairy', 'Bug', 'Fighting']","1' 08""",35.3 lbs,"['Run Away', 'Intimidate']","['male', 'female']",4,5,4,3,3,3
+Groudon,#0383,Ground,"['Water', 'Grass', 'Ice']","11' 06""",2094.4 lbs,Drought,Unknown,6,9,9,6,6,6
+Magmar,#0126,Fire,"['Water', 'Ground', 'Rock']","4' 03""",98.1 lbs,Flame Body,"['male', 'female']",4,6,4,6,5,6
+Landorus,#0645,"['Ground', 'Flying']","['Water', 'Ice']","4' 11""",149.9 lbs,Sand Force,male,6,8,6,7,5,6
+Hoppip,#0187,"['Grass', 'Flying']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock']","1' 04""",1.1 lbs,"['Chlorophyll', 'Leaf Guard']","['male', 'female']",3,3,3,3,4,3
+Brionne,#0729,Water,"['Grass', 'Electric']","2' 00""",38.6 lbs,Torrent,"['male', 'female']",4,5,5,6,5,3
+Sobble,#0816,Water,"['Grass', 'Electric']","1' 00""",8.8 lbs,Torrent,"['male', 'female']",3,3,3,3,5,5
+Gardevoir,#0282,"['Psychic', 'Fairy']","['Ghost', 'Steel', 'Poison']","5' 03""",106.7 lbs,"['Synchronize', 'Trace']","['male', 'female']",4,4,4,8,7,5
+Komala,#0775,Normal,Fighting,"1' 04""",43.9 lbs,Comatose,"['male', 'female']",4,7,4,5,6,4
+Quilava,#0156,Fire,"['Water', 'Ground', 'Rock']","2' 11""",41.9 lbs,Blaze,"['male', 'female']",4,4,4,5,4,5
+Duskull,#0355,Ghost,"['Ghost', 'Dark']","2' 07""",33.1 lbs,Levitate,"['male', 'female']",2,3,6,2,6,2
+Guzzlord,#0799,"['Dark', 'Dragon']","['Fairy', 'Fighting', 'Bug', 'Ice', 'Dragon']","18' 01""",1957.7 lbs,Beast Boost,Unknown,"['1', '4']",6,4,6,4,3
+Clawitzer,#0693,Water,"['Grass', 'Electric']","4' 03""",77.8 lbs,Mega Launcher,"['male', 'female']",5,5,6,8,6,4
+Donphan,#0232,Ground,"['Water', 'Grass', 'Ice']","3' 07""",264.6 lbs,Sturdy,"['male', 'female']",6,8,8,4,4,3
+Kommo-o,#0784,"['Dragon', 'Fighting']","['Fairy', 'Flying', 'Psychic', 'Ice', 'Dragon']","5' 03""",172.4 lbs,"['Soundproof', 'Bulletproof']","['male', 'female']",5,7,8,6,7,5
+Falinks,#0870,Fighting,"['Psychic', 'Flying', 'Fairy']","9' 10""",136.7 lbs,Battle Armor,Unknown,4,6,6,5,4,5
+Roserade,#0407,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","2' 11""",32.0 lbs,"['Poison Point', 'Natural Cure']","['male', 'female']",4,5,4,8,7,6
+Raikou,#0243,Electric,Ground,"6' 03""",392.4 lbs,Pressure,Unknown,6,5,5,7,6,7
+Inteleon,#0818,Water,"['Grass', 'Electric']","6' 03""",99.6 lbs,Torrent,"['male', 'female']",5,5,4,4,8,8
+Porygon2,#0233,Normal,Fighting,"2' 00""",71.7 lbs,"['Trace', 'Download']",Unknown,5,5,6,7,6,4
+Machop,#0066,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 07""",43.0 lbs,"['Guts', 'No Guard']","['male', 'female']",5,5,3,3,3,3
+Chandelure,#0609,"['Ghost', 'Fire']","['Ghost', 'Dark', 'Ground', 'Water', 'Rock']","3' 03""",75.6 lbs,"['Flash Fire', 'Flame Body']","['male', 'female']",4,4,6,9,6,5
+Doduo,#0084,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","4' 07""",86.4 lbs,"['Run Away', 'Early Bird']","['male', 'female']",3,5,3,3,3,5
+Mudkip,#0258,Water,"['Grass', 'Electric']","1' 04""",16.8 lbs,Torrent,"['male', 'female']",3,5,3,3,3,3
+Nincada,#0290,"['Bug', 'Ground']","['Fire', 'Water', 'Flying', 'Ice']","1' 08""",12.1 lbs,Compound Eyes,"['male', 'female']",2,3,6,2,2,3
+Meowscarada,#0908,"['Grass', 'Dark']","['Ice', 'Fire', 'Flying', 'Poison', 'Fighting', 'Fairy', 'Bug']","4' 11""",68.8 lbs,Overgrow,"['male', 'female']",5,7,5,5,5,8
+Croconaw,#0159,Water,"['Grass', 'Electric']","3' 07""",55.1 lbs,Torrent,"['male', 'female']",4,5,5,4,4,4
+Fuecoco,#0909,Fire,"['Water', 'Ground', 'Rock']","1' 04""",21.6 lbs,Blaze,"['male', 'female']",4,3,4,4,3,3
+Samurott,#0503,Water,"['Grass', 'Electric']","4' 11""",208.6 lbs,Torrent,"['male', 'female']",6,6,5,7,5,5
+Basculin,#0550,Water,"['Grass', 'Electric']","3' 03""",39.7 lbs,"['Reckless', 'Adaptability']","['male', 'female']",5,6,4,5,4,6
+Emolga,#0587,"['Electric', 'Flying']","['Ice', 'Rock']","1' 04""",11.0 lbs,Static,"['male', 'female']",4,5,4,5,4,7
+Pawmi,#0921,Electric,Ground,"1' 00""",5.5 lbs,"['Static', 'Natural Cure']","['male', 'female']",3,3,2,3,2,4
+Sealeo,#0364,"['Ice', 'Water']","['Grass', 'Electric', 'Fighting', 'Rock']","3' 07""",193.1 lbs,"['Thick Fat', 'Ice Body']","['male', 'female']",6,4,5,5,5,3
+Grimmsnarl,#0861,"['Dark', 'Fairy']","['Steel', 'Fairy', 'Poison']","4' 11""",134.5 lbs,"['Frisk', 'Prankster']",male,6,8,4,6,5,4
+Simipour,#0516,Water,"['Grass', 'Electric']","3' 03""",63.9 lbs,Gluttony,"['male', 'female']",5,6,4,6,4,6
+Dachsbun,#0927,Fairy,"['Steel', 'Poison']","1' 08""",32.8 lbs,Well-Baked Body,"['male', 'female']",4,5,7,3,5,6
+Breloom,#0286,"['Grass', 'Fighting']","['Fire', 'Psychic', 'Flying', 'Ice', 'Poison', 'Fairy']","3' 11""",86.4 lbs,"['Effect Spore', 'Poison Heal']","['male', 'female']",4,8,5,4,4,5
+Dragonite,#0149,"['Dragon', 'Flying']","['Fairy', 'Dragon', 'Ice', 'Rock']","7' 03""",463.0 lbs,Inner Focus,"['male', 'female']",6,8,6,6,6,5
+Shuckle,#0213,"['Bug', 'Rock']","['Steel', 'Water', 'Rock']","2' 00""",45.2 lbs,"['Sturdy', 'Gluttony']","['male', 'female']",2,1,"['1', '4']",1,"['1', '4']",1
+Joltik,#0595,"['Bug', 'Electric']","['Fire', 'Rock']","0' 04""",1.3 lbs,"['Compound Eyes', 'Unnerve']","['male', 'female']",3,3,3,4,3,4
+Jumpluff,#0189,"['Grass', 'Flying']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock']","2' 07""",6.6 lbs,"['Chlorophyll', 'Leaf Guard']","['male', 'female']",5,4,5,4,6,7
+Tropius,#0357,"['Grass', 'Flying']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock']","6' 07""",220.5 lbs,"['Chlorophyll', 'Solar Power']","['male', 'female']",6,4,5,5,6,3
+Tyrunt,#0696,"['Rock', 'Dragon']","['Steel', 'Fighting', 'Dragon', 'Ice', 'Fairy', 'Ground']","2' 07""",57.3 lbs,Strong Jaw,"['male', 'female']",4,6,5,3,3,3
+Noctowl,#0164,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","5' 03""",89.9 lbs,"['Keen Eye', 'Insomnia']","['male', 'female']",6,3,3,6,6,5
+Lechonk,#0915,Normal,Fighting,"1' 08""",22.5 lbs,"['Gluttony', 'Aroma Veil']","['male', 'female']",4,3,3,3,3,3
+Rillaboom,#0812,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","6' 11""",198.4 lbs,Overgrow,"['male', 'female']",6,8,6,5,5,4
+Magmortar,#0467,Fire,"['Water', 'Ground', 'Rock']","5' 03""",149.9 lbs,Flame Body,"['male', 'female']",5,6,4,8,6,5
+Tapu Lele,#0786,"['Psychic', 'Fairy']","['Ghost', 'Steel', 'Poison']","3' 11""",41.0 lbs,Psychic Surge,Unknown,5,5,5,8,7,6
+Graveler,#0075,"['Rock', 'Ground']","['Steel', 'Fighting', 'Water', 'Ice', 'Grass', 'Ground']","3' 03""",231.5 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",4,6,7,3,3,3
+Abomasnow,#0460,"['Grass', 'Ice']","['Steel', 'Fire', 'Flying', 'Poison', 'Fighting', 'Rock', 'Bug']","7' 03""",298.7 lbs,Snow Warning,"['male', 'female']",6,6,5,6,5,4
+Inkay,#0686,"['Dark', 'Psychic']","['Fairy', 'Bug']","1' 04""",7.7 lbs,"['Suction Cups', 'Contrary']","['male', 'female']",4,4,4,3,3,3
+Heatmor,#0631,Fire,"['Water', 'Ground', 'Rock']","4' 07""",127.9 lbs,"['Flash Fire', 'Gluttony']","['male', 'female']",5,6,4,7,4,4
+Yanmega,#0469,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","6' 03""",113.5 lbs,"['Tinted Lens', 'Speed Boost']","['male', 'female']",6,5,6,7,4,6
+Horsea,#0116,Water,"['Grass', 'Electric']","1' 04""",17.6 lbs,"['Swift Swim', 'Sniper']","['male', 'female']",2,3,5,5,2,4
+Nidoking,#0034,"['Poison', 'Ground']","['Water', 'Psychic', 'Ice', 'Ground']","4' 07""",136.7 lbs,"['Poison Point', 'Rivalry']",male,5,6,5,5,5,5
+Beldum,#0374,"['Steel', 'Psychic']","['Ghost', 'Fire', 'Dark', 'Ground']","2' 00""",209.9 lbs,Clear Body,Unknown,3,4,5,3,4,2
+Sandslash,#0028,Ground,"['Water', 'Grass', 'Ice']","3' 03""",65.0 lbs,Sand Veil,"['male', 'female']",5,6,7,3,4,4
+Gyarados,#0130,"['Water', 'Flying']","['Electric', 'Rock']","21' 04""",518.1 lbs,Intimidate,"['male', 'female']",6,8,5,4,6,5
+Nymble,#0919,Bug,"['Fire', 'Flying', 'Rock']","0' 08""",2.2 lbs,Swarm,"['male', 'female']",2,3,3,2,2,3
+Naclstack,#0933,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","2' 00""",231.5 lbs,"['Sturdy', 'Purifying Salt']","['male', 'female']",4,4,6,3,4,3
+Mareanie,#0747,"['Poison', 'Water']","['Psychic', 'Electric', 'Ground']","1' 04""",17.6 lbs,"['Limber', 'Merciless']","['male', 'female']",3,4,4,3,4,3
+Luxray,#0405,Electric,Ground,"4' 07""",92.6 lbs,"['Intimidate', 'Rivalry']","['male', 'female']",5,8,5,6,5,5
+Glalie,#0362,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","4' 11""",565.5 lbs,"['Inner Focus', 'Ice Body']","['male', 'female']",5,5,5,5,5,5
+Galvantula,#0596,"['Bug', 'Electric']","['Fire', 'Rock']","2' 07""",31.5 lbs,"['Compound Eyes', 'Unnerve']","['male', 'female']",5,5,4,6,4,7
+Hitmonchan,#0107,Fighting,"['Psychic', 'Flying', 'Fairy']","4' 07""",110.7 lbs,"['Keen Eye', 'Iron Fist']",male,3,7,5,3,7,5
+Pineco,#0204,Bug,"['Fire', 'Flying', 'Rock']","2' 00""",15.9 lbs,Sturdy,"['male', 'female']",3,4,6,3,3,1
+Xerneas,#0716,Fairy,"['Steel', 'Poison']","9' 10""",474.0 lbs,Fairy Aura,"['male', 'female']",8,8,6,8,6,6
+Thievul,#0828,Dark,"['Fairy', 'Bug', 'Fighting']","3' 11""",43.9 lbs,"['Run Away', 'Unburden']","['male', 'female']",5,4,4,6,6,6
+Zekrom,#0644,"['Dragon', 'Electric']","['Fairy', 'Dragon', 'Ice', 'Ground']","9' 06""",760.6 lbs,Teravolt,Unknown,6,9,8,8,6,6
+Cyclizar,#0967,"['Dragon', 'Normal']","['Fairy', 'Ice', 'Fighting', 'Dragon']","5' 03""",138.9 lbs,Shed Skin,"['male', 'female']",5,6,4,5,4,8
+Cetoddle,#0974,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","3' 11""",99.2 lbs,"['Thick Fat', 'Snow Cloak']","['male', 'female']",7,4,3,2,3,3
+Boltund,#0836,Electric,Ground,"3' 03""",75.0 lbs,Strong Jaw,"['male', 'female']",5,6,4,6,4,8
+Oranguru,#0765,"['Normal', 'Psychic']","['Dark', 'Bug']","4' 11""",167.6 lbs,"['Inner Focus', 'Telepathy']","['male', 'female']",6,4,5,6,7,4
+Gengar,#0094,"['Ghost', 'Poison']","['Ghost', 'Dark', 'Psychic', 'Ground']","4' 11""",89.3 lbs,Cursed Body,"['male', 'female']",4,4,4,8,5,7
+Melmetal,#0809,Steel,"['Fire', 'Fighting', 'Ground']","8' 02""",1763.7 lbs,Iron Fist,Unknown,8,9,9,5,4,2
+Pidgeot,#0018,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","4' 11""",87.1 lbs,"['Keen Eye', 'Tangled Feet']","['male', 'female']",5,5,5,5,5,6
+Perrserker,#0863,Steel,"['Fire', 'Fighting', 'Ground']","2' 07""",61.7 lbs,"['Battle Armor', 'Tough Claws']","['male', 'female']",5,7,6,4,3,3
+Toxtricity,#0849,"['Electric', 'Poison']","['Psychic', 'Ground']","5' 03""",88.2 lbs,"['Minus', 'Punk Rock']","['male', 'female']",5,6,5,7,5,5
+Beheeyem,#0606,Psychic,"['Ghost', 'Dark', 'Bug']","3' 03""",76.1 lbs,"['Synchronize', 'Telepathy']","['male', 'female']",5,5,5,8,6,3
+Fletchling,#0661,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 00""",3.7 lbs,Big Pecks,"['male', 'female']",3,3,3,3,3,4
+Flabébé,#0669,Fairy,"['Steel', 'Poison']","0' 04""",0.2 lbs,Flower Veil,female,3,3,3,4,5,3
+Swablu,#0333,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 04""",2.6 lbs,Natural Cure,"['male', 'female']",3,3,4,3,5,3
+Quaxly,#0912,Water,"['Grass', 'Electric']","1' 08""",13.4 lbs,Torrent,"['male', 'female']",4,4,3,3,3,3
+Cinccino,#0573,Normal,Fighting,"1' 08""",16.5 lbs,"['Cute Charm', 'Technician']","['male', 'female']",5,6,4,4,4,7
+Camerupt,#0323,"['Fire', 'Ground']","['Water', 'Ground']","6' 03""",485.0 lbs,"['Magma Armor', 'Solid Rock']","['male', 'female']",5,6,5,7,5,3
+Numel,#0322,"['Fire', 'Ground']","['Water', 'Ground']","2' 04""",52.9 lbs,"['Oblivious', 'Simple']","['male', 'female']",4,4,3,4,3,3
+Volcarona,#0637,"['Bug', 'Fire']","['Water', 'Flying', 'Rock']","5' 03""",101.4 lbs,Flame Body,"['male', 'female']",5,4,4,8,7,6
+Beautifly,#0267,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","3' 03""",62.6 lbs,Swarm,"['male', 'female']",4,5,3,6,3,4
+Claydol,#0344,"['Ground', 'Psychic']","['Ghost', 'Water', 'Ice', 'Dark', 'Grass', 'Bug']","4' 11""",238.1 lbs,Levitate,Unknown,4,5,7,5,8,5
+Cradily,#0346,"['Rock', 'Grass']","['Steel', 'Ice', 'Fighting', 'Bug']","4' 11""",133.2 lbs,Suction Cups,"['male', 'female']",6,5,6,5,7,3
+Smeargle,#0235,Normal,Fighting,"3' 11""",127.9 lbs,"['Technician', 'Own Tempo']","['male', 'female']",4,2,3,2,3,5
+Steenee,#0762,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 04""",18.1 lbs,"['Oblivious', 'Leaf Guard']",female,4,3,3,3,3,4
+Gurdurr,#0533,Fighting,"['Psychic', 'Flying', 'Fairy']","3' 11""",88.2 lbs,"['Guts', 'Sheer Force']","['male', 'female']",5,7,5,3,3,3
+Poliwag,#0060,Water,"['Grass', 'Electric']","2' 00""",27.3 lbs,"['Damp', 'Water Absorb']","['male', 'female']",3,3,3,3,3,6
+Kyurem,#0646,"['Dragon', 'Ice']","['Steel', 'Fairy', 'Rock', 'Fighting', 'Dragon']","9' 10""",716.5 lbs,Pressure,Unknown,8,8,6,8,6,6
+Persian,#0053,Normal,Fighting,"3' 03""",70.5 lbs,"['Technician', 'Limber']","['male', 'female']",4,5,4,4,4,7
+Wooloo,#0831,Normal,Fighting,"2' 00""",13.2 lbs,"['Run Away', 'Fluffy']","['male', 'female']",3,3,4,3,3,3
+Diancie,#0719,"['Rock', 'Fairy']","['Steel', 'Water', 'Grass', 'Ground']","2' 04""",19.4 lbs,Clear Body,"['male', 'female']",3,6,9,6,9,3
+Charizard,#0006,"['Fire', 'Flying']","['Water', 'Electric', 'Rock']","5' 07""",199.5 lbs,Blaze,"['male', 'female']",5,5,5,7,5,6
+Florges,#0671,Fairy,"['Steel', 'Poison']","3' 07""",22.0 lbs,Flower Veil,female,5,4,4,7,"['1', '0']",5
+Hydreigon,#0635,"['Dark', 'Dragon']","['Fairy', 'Fighting', 'Bug', 'Ice', 'Dragon']","5' 11""",352.7 lbs,Levitate,"['male', 'female']",6,7,6,8,6,6
+Silcoon,#0266,Bug,"['Fire', 'Flying', 'Rock']","2' 00""",22.0 lbs,Shed Skin,"['male', 'female']",3,3,4,2,2,1
+Starmie,#0121,"['Water', 'Psychic']","['Ghost', 'Dark', 'Grass', 'Electric', 'Bug']","3' 07""",176.4 lbs,"['Natural Cure', 'Illuminate']",Unknown,4,5,5,6,5,7
+Binacle,#0688,"['Rock', 'Water']","['Grass', 'Electric', 'Fighting', 'Ground']","1' 08""",68.3 lbs,"['Sniper', 'Tough Claws']","['male', 'female']",3,4,4,3,4,3
+Spectrier,#0897,Ghost,"['Ghost', 'Dark']","6' 07""",98.1 lbs,Grim Neigh,Unknown,6,4,4,9,5,8
+Spinarak,#0167,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","1' 08""",18.7 lbs,"['Swarm', 'Insomnia']","['male', 'female']",3,4,3,3,3,2
+Probopass,#0476,"['Rock', 'Steel']","['Water', 'Fighting', 'Ground']","4' 07""",749.6 lbs,"['Sturdy', 'Magnet Pull']","['male', 'female']",4,4,9,5,9,3
+Roselia,#0315,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","1' 00""",4.4 lbs,"['Poison Point', 'Natural Cure']","['male', 'female']",3,4,3,6,5,4
+Ivysaur,#0002,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","3' 03""",28.7 lbs,Overgrow,"['male', 'female']",4,4,4,5,5,4
+Musharna,#0518,Psychic,"['Ghost', 'Dark', 'Bug']","3' 07""",133.4 lbs,"['Synchronize', 'Forewarn']","['male', 'female']",7,4,5,7,6,2
+Minccino,#0572,Normal,Fighting,"1' 04""",12.8 lbs,"['Cute Charm', 'Technician']","['male', 'female']",4,3,3,3,3,5
+Manectric,#0310,Electric,Ground,"4' 11""",88.6 lbs,"['Static', 'Lightning Rod']","['male', 'female']",5,5,4,7,4,7
+Sandile,#0551,"['Ground', 'Dark']","['Ice', 'Water', 'Fighting', 'Fairy', 'Grass', 'Bug']","2' 04""",33.5 lbs,"['Intimidate', 'Moxie']","['male', 'female']",3,5,3,3,3,4
+Stakataka,#0805,"['Rock', 'Steel']","['Water', 'Fighting', 'Ground']","18' 01""",1807.8 lbs,Beast Boost,Unknown,4,8,"['1', '3']",4,6,1
+Chatot,#0441,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 08""",4.2 lbs,"['Keen Eye', 'Tangled Feet']","['male', 'female']",5,4,3,6,3,6
+Weedle,#0013,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","1' 00""",7.1 lbs,Shield Dust,"['male', 'female']",3,3,2,2,2,3
+Cherrim,#0421,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 08""",20.5 lbs,Flower Gift,"['male', 'female']",5,4,5,6,5,5
+Purrloin,#0509,Dark,"['Fairy', 'Bug', 'Fighting']","1' 04""",22.3 lbs,"['Limber', 'Unburden']","['male', 'female']",3,3,3,3,3,4
+Sprigatito,#0906,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 04""",9.0 lbs,Overgrow,"['male', 'female']",3,4,4,3,3,4
+Flygon,#0330,"['Ground', 'Dragon']","['Fairy', 'Ice', 'Dragon']","6' 07""",180.8 lbs,Levitate,"['male', 'female']",5,6,5,5,5,6
+Applin,#0840,"['Grass', 'Dragon']","['Flying', 'Ice', 'Dragon', 'Poison', 'Fairy', 'Bug']","0' 08""",1.1 lbs,"['Gluttony', 'Ripen']","['male', 'female']",3,3,5,3,3,2
+Hippowdon,#0450,Ground,"['Water', 'Grass', 'Ice']","6' 07""",661.4 lbs,Sand Stream,"['male', 'female']",7,7,7,4,5,3
+Dugtrio,#0051,Ground,"['Water', 'Grass', 'Ice']","2' 04""",73.4 lbs,"['Sand Veil', 'Arena Trap']","['male', 'female']",3,6,3,3,5,8
+Victini,#0494,"['Psychic', 'Fire']","['Ghost', 'Water', 'Ground', 'Dark', 'Rock']","1' 04""",8.8 lbs,Victory Star,Unknown,6,6,6,6,6,6
+Cosmoem,#0790,Psychic,"['Ghost', 'Dark', 'Bug']","0' 04""",2204.4 lbs,Sturdy,Unknown,3,2,8,2,8,3
+Elekid,#0239,Electric,Ground,"2' 00""",51.8 lbs,Static,"['male', 'female']",3,4,3,4,4,6
+Zebstrika,#0523,Electric,Ground,"5' 03""",175.3 lbs,"['Lightning Rod', 'Motor Drive']","['male', 'female']",5,6,4,5,4,7
+Slakoth,#0287,Normal,Fighting,"2' 07""",52.9 lbs,Truant,"['male', 'female']",4,4,4,3,3,2
+Grafaiai,#0945,"['Poison', 'Normal']","['Psychic', 'Ground']","2' 04""",60.0 lbs,"['Unburden', 'Poison Touch']","['male', 'female']",4,6,4,5,5,7
+Scream Tail,#0985,"['Fairy', 'Psychic']","['Steel', 'Ghost', 'Poison']","3' 11""",17.6 lbs,Protosynthesis,Unknown,7,4,6,4,7,7
+Hitmontop,#0237,Fighting,"['Psychic', 'Flying', 'Fairy']","4' 07""",105.8 lbs,"['Intimidate', 'Technician']",male,3,6,6,3,7,5
+Scyther,#0123,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","4' 11""",123.5 lbs,"['Swarm', 'Technician']","['male', 'female']",5,7,5,4,5,7
+Starly,#0396,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 00""",4.4 lbs,Keen Eye,"['male', 'female']",3,4,2,2,2,4
+Copperajah,#0879,Steel,"['Fire', 'Fighting', 'Ground']","9' 10""",1433.0 lbs,Sheer Force,"['male', 'female']",8,8,5,5,5,2
+Volcanion,#0721,"['Fire', 'Water']","['Ground', 'Electric', 'Rock']","5' 07""",429.9 lbs,Water Absorb,Unknown,5,7,8,8,6,5
+Farfetch’d,#0083,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","2' 07""",33.1 lbs,"['Keen Eye', 'Inner Focus']","['male', 'female']",4,6,4,4,4,4
+Dragapult,#0887,"['Dragon', 'Ghost']","['Ghost', 'Dark', 'Fairy', 'Ice', 'Dragon']","9' 10""",110.2 lbs,"['Clear Body', 'Infiltrator']","['male', 'female']",6,8,5,6,5,9
+Kingambit,#0983,"['Dark', 'Steel']","['Fire', 'Fighting', 'Ground']","6' 07""",264.6 lbs,"['Defiant', 'Supreme Overlord']","['male', 'female']",6,8,8,4,5,3
+Buneary,#0427,Normal,Fighting,"1' 04""",12.1 lbs,"['Run Away', 'Klutz']","['male', 'female']",4,4,3,3,4,5
+Duraludon,#0884,"['Steel', 'Dragon']","['Fighting', 'Ground']","5' 11""",88.2 lbs,"['Light Metal', 'Heavy Metal']","['male', 'female']",5,6,7,3,5,8
+Mandibuzz,#0630,"['Dark', 'Flying']","['Fairy', 'Electric', 'Ice', 'Rock']","3' 11""",87.1 lbs,"['Big Pecks', 'Overcoat']",female,7,4,7,4,6,5
+Miraidon,#1008,"['Electric', 'Dragon']","['Fairy', 'Ground', 'Ice', 'Dragon']","11' 06""",529.1 lbs,Hadron Engine,Unknown,6,5,6,8,7,8
+Relicanth,#0369,"['Water', 'Rock']","['Grass', 'Electric', 'Fighting', 'Ground']","3' 03""",51.6 lbs,"['Rock Head', 'Swift Swim']","['male', 'female']",6,6,8,3,4,4
+Wooper,#0194,"['Water', 'Ground']",Grass,"1' 04""",18.7 lbs,"['Damp', 'Water Absorb']","['male', 'female']",4,3,3,2,2,1
+Frosmoth,#0873,"['Ice', 'Bug']","['Fire', 'Steel', 'Flying', 'Rock']","4' 03""",92.6 lbs,Shield Dust,"['male', 'female']",5,4,4,8,6,4
+Malamar,#0687,"['Dark', 'Psychic']","['Fairy', 'Bug']","4' 11""",103.6 lbs,"['Suction Cups', 'Contrary']","['male', 'female']",6,6,6,4,5,5
+Lotad,#0270,"['Water', 'Grass']","['Flying', 'Bug', 'Poison']","1' 08""",5.7 lbs,"['Swift Swim', 'Rain Dish']","['male', 'female']",3,2,2,3,3,2
+Axew,#0610,Dragon,"['Fairy', 'Ice', 'Dragon']","2' 00""",39.7 lbs,"['Rivalry', 'Mold Breaker']","['male', 'female']",3,6,4,2,3,4
+Milcery,#0868,Fairy,"['Steel', 'Poison']","0' 08""",0.7 lbs,Sweet Veil,female,3,3,3,4,2,3
+Glastrier,#0896,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","7' 03""",1763.7 lbs,Chilling Neigh,Unknown,6,9,8,4,7,2
+Crustle,#0558,"['Bug', 'Rock']","['Steel', 'Water', 'Rock']","4' 07""",440.9 lbs,"['Sturdy', 'Shell Armor']","['male', 'female']",5,7,8,4,5,3
+Bonsly,#0438,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","1' 08""",33.1 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",3,5,6,1,3,1
+Fomantis,#0753,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 00""",3.3 lbs,Leaf Guard,"['male', 'female']",3,4,3,3,3,3
+Ferroseed,#0597,"['Grass', 'Steel']","['Fire', 'Fighting']","2' 00""",41.4 lbs,Iron Barbs,"['male', 'female']",3,3,6,2,6,1
+Illumise,#0314,Bug,"['Fire', 'Flying', 'Rock']","2' 00""",39.0 lbs,"['Tinted Lens', 'Oblivious']",female,4,3,5,5,5,5
+Lucario,#0448,"['Fighting', 'Steel']","['Fire', 'Fighting', 'Ground']","3' 11""",119.0 lbs,"['Inner Focus', 'Steadfast']","['male', 'female']",5,7,5,7,5,6
+Tympole,#0535,Water,"['Grass', 'Electric']","1' 08""",9.9 lbs,"['Hydration', 'Swift Swim']","['male', 'female']",3,3,3,3,3,4
+Greedent,#0820,Normal,Fighting,"2' 00""",13.2 lbs,Cheek Pouch,"['male', 'female']",8,6,6,4,5,2
+Machamp,#0068,Fighting,"['Psychic', 'Flying', 'Fairy']","5' 03""",286.6 lbs,"['Guts', 'No Guard']","['male', 'female']",6,8,5,4,5,4
+Regice,#0378,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","5' 11""",385.8 lbs,Clear Body,Unknown,5,3,6,6,"['1', '2']",3
+Sandygast,#0769,"['Ghost', 'Ground']","['Ghost', 'Dark', 'Grass', 'Water', 'Ice']","1' 08""",154.3 lbs,Water Compaction,"['male', 'female']",4,4,5,5,3,1
+Wormadam,#0413,"['Bug', 'Grass']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock', 'Bug']","1' 08""",14.3 lbs,Anticipation,female,4,4,5,5,7,3
+Grumpig,#0326,Psychic,"['Ghost', 'Dark', 'Bug']","2' 11""",157.6 lbs,"['Own Tempo', 'Thick Fat']","['male', 'female']",5,3,4,6,7,5
+Vaporeon,#0134,Water,"['Grass', 'Electric']","3' 03""",63.9 lbs,Water Absorb,"['male', 'female']",8,4,4,7,6,4
+Azelf,#0482,Psychic,"['Ghost', 'Dark', 'Bug']","1' 00""",0.7 lbs,Levitate,Unknown,5,8,5,8,5,7
+Iron Bundle,#0991,"['Ice', 'Water']","['Grass', 'Electric', 'Fighting', 'Rock']","2' 00""",24.3 lbs,Quark Drive,Unknown,4,5,7,8,4,8
+Sneasel,#0215,"['Dark', 'Ice']","['Steel', 'Fire', 'Fighting', 'Rock', 'Fairy', 'Bug']","2' 11""",61.7 lbs,"['Keen Eye', 'Inner Focus']","['male', 'female']",4,6,4,3,5,7
+Aipom,#0190,Normal,Fighting,"2' 07""",25.4 lbs,"['Run Away', 'Pickup']","['male', 'female']",4,5,4,3,4,5
+Poipole,#0803,Poison,"['Psychic', 'Ground']","2' 00""",4.0 lbs,Beast Boost,Unknown,4,5,4,5,4,5
+Duosion,#0578,Psychic,"['Ghost', 'Dark', 'Bug']","2' 00""",17.6 lbs,"['Magic Guard', 'Overcoat']","['male', 'female']",4,3,3,8,4,2
+Pincurchin,#0871,Electric,Ground,"1' 00""",2.2 lbs,Lightning Rod,"['male', 'female']",3,6,6,6,5,1
+Yungoos,#0734,Normal,Fighting,"1' 04""",13.2 lbs,"['Strong Jaw', 'Stakeout']","['male', 'female']",3,5,2,2,2,3
+Druddigon,#0621,Dragon,"['Fairy', 'Ice', 'Dragon']","5' 03""",306.4 lbs,"['Rough Skin', 'Sheer Force']","['male', 'female']",5,8,6,4,6,3
+Typhlosion,#0157,Fire,"['Water', 'Ground', 'Rock']","5' 07""",175.3 lbs,Blaze,"['male', 'female']",5,5,5,7,5,6
+Skiddo,#0672,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 11""",68.3 lbs,Sap Sipper,"['male', 'female']",4,4,3,4,4,4
+Ledian,#0166,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","4' 07""",78.5 lbs,"['Swarm', 'Early Bird']","['male', 'female']",4,3,3,4,7,5
+Kangaskhan,#0115,Normal,Fighting,"7' 03""",176.4 lbs,"['Early Bird', 'Scrappy']",female,7,6,5,3,5,6
+Blacephalon,#0806,"['Fire', 'Ghost']","['Water', 'Ghost', 'Ground', 'Dark', 'Rock']","5' 11""",28.7 lbs,Beast Boost,Unknown,4,8,4,9,5,7
+Cloyster,#0091,"['Water', 'Ice']","['Grass', 'Electric', 'Fighting', 'Rock']","4' 11""",292.1 lbs,"['Shell Armor', 'Skill Link']","['male', 'female']",3,6,"['1', '1']",5,3,5
+Brambleghast,#0947,"['Grass', 'Ghost']","['Ghost', 'Fire', 'Flying', 'Dark', 'Ice']","3' 11""",13.2 lbs,Wind Rider,"['male', 'female']",4,7,5,5,5,6
+Kabuto,#0140,"['Rock', 'Water']","['Grass', 'Electric', 'Fighting', 'Ground']","1' 08""",25.4 lbs,"['Swift Swim', 'Battle Armor']","['male', 'female']",2,5,6,4,3,4
+Lunatone,#0337,"['Rock', 'Psychic']","['Steel', 'Ghost', 'Water', 'Dark', 'Grass', 'Bug', 'Ground']","3' 03""",370.4 lbs,Levitate,Unknown,6,4,4,6,5,5
+Scizor,#0212,"['Bug', 'Steel']",Fire,"5' 11""",260.1 lbs,"['Swarm', 'Technician']","['male', 'female']",5,8,6,4,5,4
+Magby,#0240,Fire,"['Water', 'Ground', 'Rock']","2' 04""",47.2 lbs,Flame Body,"['male', 'female']",3,5,3,5,4,5
+Slowbro,#0080,"['Water', 'Psychic']","['Ghost', 'Dark', 'Grass', 'Electric', 'Bug']","5' 03""",173.1 lbs,"['Oblivious', 'Own Tempo']","['male', 'female']",6,5,7,6,5,2
+Salamence,#0373,"['Dragon', 'Flying']","['Fairy', 'Dragon', 'Ice', 'Rock']","4' 11""",226.2 lbs,Intimidate,"['male', 'female']",6,8,5,7,5,6
+Lapras,#0131,"['Water', 'Ice']","['Grass', 'Electric', 'Fighting', 'Rock']","8' 02""",485.0 lbs,"['Water Absorb', 'Shell Armor']","['male', 'female']",8,5,5,5,6,4
+Barboach,#0339,"['Water', 'Ground']",Grass,"1' 04""",4.2 lbs,"['Oblivious', 'Anticipation']","['male', 'female']",3,3,3,3,3,4
+Slurpuff,#0685,Fairy,"['Steel', 'Poison']","2' 07""",11.0 lbs,Sweet Veil,"['male', 'female']",5,5,6,5,5,5
+Phanpy,#0231,Ground,"['Water', 'Grass', 'Ice']","1' 08""",73.9 lbs,Pickup,"['male', 'female']",6,4,4,3,3,3
+Blaziken,#0257,"['Fire', 'Fighting']","['Water', 'Psychic', 'Flying', 'Ground']","6' 03""",114.6 lbs,Blaze,"['male', 'female']",5,8,5,7,5,5
+Skrelp,#0690,"['Poison', 'Water']","['Psychic', 'Electric', 'Ground']","1' 08""",16.1 lbs,"['Poison Point', 'Poison Touch']","['male', 'female']",3,4,4,4,4,2
+Sewaddle,#0540,"['Bug', 'Grass']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock', 'Bug']","1' 00""",5.5 lbs,"['Swarm', 'Chlorophyll']","['male', 'female']",3,4,5,3,4,3
+Gothita,#0574,Psychic,"['Ghost', 'Dark', 'Bug']","1' 04""",12.8 lbs,"['Frisk', 'Competitive']","['male', 'female']",3,2,3,4,4,3
+Metagross,#0376,"['Steel', 'Psychic']","['Ghost', 'Fire', 'Dark', 'Ground']","5' 03""",1212.5 lbs,Clear Body,Unknown,5,8,8,6,6,5
+Spiritomb,#0442,"['Ghost', 'Dark']",Fairy,"3' 03""",238.1 lbs,Pressure,"['male', 'female']",3,6,7,6,7,3
+Heatran,#0485,"['Fire', 'Steel']","['Water', 'Fighting', 'Ground']","5' 07""",948.0 lbs,Flash Fire,"['male', 'female']",6,6,7,8,7,5
+Stunky,#0434,"['Poison', 'Dark']",Ground,"1' 04""",42.3 lbs,"['Stench', 'Aftermath']","['male', 'female']",4,4,3,3,3,5
+Polteageist,#0855,Ghost,"['Ghost', 'Dark']","0' 08""",0.9 lbs,Weak Armor,Unknown,4,4,4,8,7,5
+Taillow,#0276,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 00""",5.1 lbs,Guts,"['male', 'female']",3,4,2,2,2,5
+Pidove,#0519,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 00""",4.6 lbs,"['Super Luck', 'Big Pecks']","['male', 'female']",3,4,3,3,2,3
+Frillish,#0592,"['Water', 'Ghost']","['Ghost', 'Dark', 'Grass', 'Electric']","3' 11""",72.8 lbs,"['Water Absorb', 'Cursed Body']",male,4,3,3,4,5,3
+Shieldon,#0410,"['Rock', 'Steel']","['Water', 'Fighting', 'Ground']","1' 08""",125.7 lbs,Sturdy,"['male', 'female']",2,3,7,3,6,2
+Slugma,#0218,Fire,"['Water', 'Ground', 'Rock']","2' 04""",77.2 lbs,"['Flame Body', 'Magma Armor']","['male', 'female']",3,3,3,5,3,2
+Hatenna,#0856,Psychic,"['Ghost', 'Dark', 'Bug']","1' 04""",7.5 lbs,"['Anticipation', 'Healer']",female,3,2,3,4,4,3
+Remoraid,#0223,Water,"['Grass', 'Electric']","2' 00""",26.5 lbs,"['Sniper', 'Hustle']","['male', 'female']",3,4,3,4,3,4
+Chien-Pao,#1002,"['Dark', 'Ice']","['Steel', 'Fire', 'Fighting', 'Rock', 'Fairy', 'Bug']","6' 03""",335.5 lbs,Sword of Ruin,Unknown,5,8,5,6,4,8
+Fraxure,#0611,Dragon,"['Fairy', 'Ice', 'Dragon']","3' 03""",79.4 lbs,"['Rivalry', 'Mold Breaker']","['male', 'female']",4,7,5,3,3,4
+Swirlix,#0684,Fairy,"['Steel', 'Poison']","1' 04""",7.7 lbs,Sweet Veil,"['male', 'female']",4,3,4,4,4,3
+Spearow,#0021,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 00""",4.4 lbs,Keen Eye,"['male', 'female']",3,4,2,2,2,5
+Oddish,#0043,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","1' 08""",11.9 lbs,Chlorophyll,"['male', 'female']",3,3,4,5,4,2
+Fennekin,#0653,Fire,"['Water', 'Ground', 'Rock']","1' 04""",20.7 lbs,Blaze,"['male', 'female']",3,3,3,4,4,4
+Dolliv,#0929,"['Grass', 'Normal']","['Ice', 'Fire', 'Flying', 'Poison', 'Fighting', 'Bug']","2' 00""",26.2 lbs,Early Bird,"['male', 'female']",4,4,4,5,5,2
+Torkoal,#0324,Fire,"['Water', 'Ground', 'Rock']","1' 08""",177.3 lbs,"['White Smoke', 'Drought']","['male', 'female']",5,5,9,5,5,2
+Skitty,#0300,Normal,Fighting,"2' 00""",24.3 lbs,"['Cute Charm', 'Normalize']","['male', 'female']",3,3,3,3,3,3
+Servine,#0496,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 07""",35.3 lbs,Overgrow,"['male', 'female']",4,4,5,4,5,5
+Revavroom,#0966,"['Steel', 'Poison']","['Fire', 'Ground']","5' 11""",264.6 lbs,Overcoat,"['male', 'female']",5,7,6,4,4,6
+Koraidon,#1007,"['Fighting', 'Dragon']","['Psychic', 'Flying', 'Fairy', 'Ice', 'Dragon']","8' 02""",668.0 lbs,Orichalcum Pulse,Unknown,6,8,7,5,6,8
+Ampharos,#0181,Electric,Ground,"4' 07""",135.6 lbs,Static,"['male', 'female']",6,5,5,7,6,4
+Toxicroak,#0454,"['Poison', 'Fighting']","['Psychic', 'Flying', 'Ground']","4' 03""",97.9 lbs,"['Dry Skin', 'Anticipation']","['male', 'female']",5,7,4,6,4,5
+Dottler,#0825,"['Bug', 'Psychic']","['Ghost', 'Fire', 'Flying', 'Dark', 'Rock', 'Bug']","1' 04""",43.0 lbs,"['Compound Eyes', 'Swarm']","['male', 'female']",3,3,5,6,2,3
+Arboliva,#0930,"['Grass', 'Normal']","['Ice', 'Fire', 'Flying', 'Poison', 'Fighting', 'Bug']","4' 07""",106.3 lbs,Seed Sower,"['male', 'female']",5,5,6,8,7,3
+Skarmory,#0227,"['Steel', 'Flying']","['Fire', 'Electric']","5' 07""",111.3 lbs,"['Keen Eye', 'Sturdy']","['male', 'female']",4,5,9,3,5,5
+Lokix,#0920,"['Bug', 'Dark']","['Fire', 'Fairy', 'Flying', 'Bug', 'Rock']","3' 03""",38.6 lbs,Swarm,"['male', 'female']",5,6,5,4,4,6
+Skuntank,#0435,"['Poison', 'Dark']",Ground,"3' 03""",83.8 lbs,"['Stench', 'Aftermath']","['male', 'female']",7,6,4,5,4,5
+Natu,#0177,"['Psychic', 'Flying']","['Ghost', 'Dark', 'Electric', 'Ice', 'Rock']","0' 08""",4.4 lbs,"['Synchronize', 'Early Bird']","['male', 'female']",3,3,3,5,3,5
+Poliwhirl,#0061,Water,"['Grass', 'Electric']","3' 03""",44.1 lbs,"['Damp', 'Water Absorb']","['male', 'female']",4,4,4,3,3,6
+Reuniclus,#0579,Psychic,"['Ghost', 'Dark', 'Bug']","3' 03""",44.3 lbs,"['Magic Guard', 'Overcoat']","['male', 'female']",7,4,5,8,5,2
+Vivillon,#0666,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","3' 11""",37.5 lbs,"['Shield Dust', 'Compound Eyes']","['male', 'female']",5,4,3,6,3,6
+Blipbug,#0824,Bug,"['Fire', 'Flying', 'Rock']","1' 04""",17.6 lbs,"['Compound Eyes', 'Swarm']","['male', 'female']",2,2,2,3,3,2
+Lillipup,#0506,Normal,Fighting,"1' 04""",9.0 lbs,"['Pickup', 'Vital Spirit']","['male', 'female']",3,4,3,2,3,4
+Crabrawler,#0739,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 00""",15.4 lbs,"['Hyper Cutter', 'Iron Fist']","['male', 'female']",3,5,4,3,3,4
+Jynx,#0124,"['Ice', 'Psychic']","['Steel', 'Ghost', 'Fire', 'Dark', 'Rock', 'Bug']","4' 07""",89.5 lbs,"['Oblivious', 'Forewarn']",female,4,3,3,7,6,6
+Pikipek,#0731,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 00""",2.6 lbs,"['Keen Eye', 'Skill Link']","['male', 'female']",3,5,2,2,2,4
+Thwackey,#0811,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 04""",30.9 lbs,Overgrow,"['male', 'female']",5,5,5,4,5,4
+Toucannon,#0733,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","3' 07""",57.3 lbs,"['Keen Eye', 'Skill Link']","['male', 'female']",5,8,5,5,5,4
+Corsola,#0222,"['Water', 'Rock']","['Grass', 'Electric', 'Fighting', 'Ground']","2' 00""",11.0 lbs,"['Natural Cure', 'Hustle']","['male', 'female']",4,4,6,4,6,3
+Swampert,#0260,"['Water', 'Ground']",Grass,"4' 11""",180.6 lbs,Torrent,"['male', 'female']",6,7,6,5,6,4
+Haxorus,#0612,Dragon,"['Fairy', 'Ice', 'Dragon']","5' 11""",232.6 lbs,"['Rivalry', 'Mold Breaker']","['male', 'female']",5,9,6,4,5,6
+Pelipper,#0279,"['Water', 'Flying']","['Electric', 'Rock']","3' 11""",61.7 lbs,"['Keen Eye', 'Drizzle']","['male', 'female']",4,3,6,6,5,4
+Zoroark,#0571,Dark,"['Fairy', 'Bug', 'Fighting']","5' 03""",178.8 lbs,Illusion,"['male', 'female']",4,7,4,8,4,7
+Pancham,#0674,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 00""",17.6 lbs,"['Iron Fist', 'Mold Breaker']","['male', 'female']",4,5,4,3,3,3
+Bruxish,#0779,"['Water', 'Psychic']","['Ghost', 'Dark', 'Grass', 'Electric', 'Bug']","2' 11""",41.9 lbs,"['Strong Jaw', 'Dazzling']","['male', 'female']",4,7,5,5,5,6
+Mewtwo,#0150,Psychic,"['Ghost', 'Dark', 'Bug']","6' 07""",269.0 lbs,Pressure,Unknown,7,7,6,"['1', '0']",6,8
+Tatsugiri,#0978,"['Dragon', 'Water']","['Fairy', 'Dragon']","1' 00""",17.6 lbs,Commander,"['male', 'female']",4,3,4,8,6,5
+Carvanha,#0318,"['Water', 'Dark']","['Fairy', 'Grass', 'Electric', 'Fighting', 'Bug']","2' 07""",45.9 lbs,Rough Skin,"['male', 'female']",3,6,2,4,2,4
+Aerodactyl,#0142,"['Rock', 'Flying']","['Steel', 'Water', 'Electric', 'Ice', 'Rock']","5' 11""",130.1 lbs,"['Rock Head', 'Pressure']","['male', 'female']",5,7,4,4,5,8
+Makuhita,#0296,Fighting,"['Psychic', 'Flying', 'Fairy']","3' 03""",190.5 lbs,"['Guts', 'Thick Fat']","['male', 'female']",5,4,2,2,2,2
+Anorith,#0347,"['Rock', 'Bug']","['Steel', 'Water', 'Rock']","2' 04""",27.6 lbs,Battle Armor,"['male', 'female']",3,6,3,3,3,5
+Bronzong,#0437,"['Steel', 'Psychic']","['Ghost', 'Fire', 'Dark', 'Ground']","4' 03""",412.3 lbs,"['Levitate', 'Heatproof']",Unknown,4,6,7,5,7,2
+Klink,#0599,Steel,"['Fire', 'Fighting', 'Ground']","1' 00""",46.3 lbs,"['Plus', 'Minus']",Unknown,3,4,5,3,4,2
+Throh,#0538,Fighting,"['Psychic', 'Flying', 'Fairy']","4' 03""",122.4 lbs,"['Guts', 'Inner Focus']",male,8,6,5,2,5,3
+Mienshao,#0620,Fighting,"['Psychic', 'Flying', 'Fairy']","4' 07""",78.3 lbs,"['Inner Focus', 'Regenerator']","['male', 'female']",4,8,4,6,4,7
+Runerigus,#0867,"['Ground', 'Ghost']","['Water', 'Ghost', 'Grass', 'Dark', 'Ice']","5' 03""",146.8 lbs,Wandering Spirit,"['male', 'female']",4,6,9,7,2,3
+Spheal,#0363,"['Ice', 'Water']","['Grass', 'Electric', 'Fighting', 'Rock']","2' 07""",87.1 lbs,"['Thick Fat', 'Ice Body']","['male', 'female']",5,3,3,4,3,2
+Wailmer,#0320,Water,"['Grass', 'Electric']","6' 07""",286.6 lbs,"['Oblivious', 'Water Veil']","['male', 'female']",8,5,3,5,3,4
+Wingull,#0278,"['Water', 'Flying']","['Electric', 'Rock']","2' 00""",20.9 lbs,"['Keen Eye', 'Hydration']","['male', 'female']",3,2,2,4,2,5
+Oricorio,#0741,"['Fire', 'Flying']","['Water', 'Electric', 'Rock']","2' 00""",7.5 lbs,Dancer,"['male', 'female']",5,5,5,6,5,6
+Mesprit,#0481,Psychic,"['Ghost', 'Dark', 'Bug']","1' 00""",0.7 lbs,Levitate,Unknown,5,7,7,7,7,5
+Tyrantrum,#0697,"['Rock', 'Dragon']","['Steel', 'Fighting', 'Dragon', 'Ice', 'Fairy', 'Ground']","8' 02""",595.2 lbs,Strong Jaw,"['male', 'female']",5,8,7,5,4,5
+Tauros,#0128,Normal,Fighting,"4' 07""",194.9 lbs,"['Intimidate', 'Anger Point']",male,5,6,6,3,5,7
+Gloom,#0044,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","2' 07""",19.0 lbs,Chlorophyll,"['male', 'female']",4,4,5,5,5,3
+Iron Valiant,#1006,"['Fairy', 'Fighting']","['Steel', 'Psychic', 'Flying', 'Fairy', 'Poison']","4' 07""",77.2 lbs,Quark Drive,Unknown,5,8,6,8,4,7
+Munna,#0517,Psychic,"['Ghost', 'Dark', 'Bug']","2' 00""",51.4 lbs,"['Synchronize', 'Forewarn']","['male', 'female']",5,2,3,4,4,2
+Lanturn,#0171,"['Water', 'Electric']","['Grass', 'Ground']","3' 11""",49.6 lbs,"['Illuminate', 'Volt Absorb']","['male', 'female']",8,4,4,5,5,4
+Marshadow,#0802,"['Fighting', 'Ghost']","['Ghost', 'Psychic', 'Flying', 'Fairy']","2' 04""",48.9 lbs,Technician,Unknown,6,8,5,6,6,8
+Rookidee,#0821,Flying,"['Electric', 'Ice', 'Rock']","0' 08""",4.0 lbs,"['Keen Eye', 'Unnerve']","['male', 'female']",3,3,3,2,3,4
+Krookodile,#0553,"['Ground', 'Dark']","['Ice', 'Water', 'Fighting', 'Fairy', 'Grass', 'Bug']","4' 11""",212.3 lbs,"['Intimidate', 'Moxie']","['male', 'female']",6,7,5,4,5,6
+Iron Treads,#0990,"['Ground', 'Steel']","['Fire', 'Water', 'Fighting', 'Ground']","2' 11""",529.1 lbs,Quark Drive,Unknown,6,7,8,5,5,7
+Hitmonlee,#0106,Fighting,"['Psychic', 'Flying', 'Fairy']","4' 11""",109.8 lbs,"['Limber', 'Reckless']",male,3,8,4,3,7,6
+Sunflora,#0192,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 07""",18.7 lbs,"['Chlorophyll', 'Solar Power']","['male', 'female']",5,5,4,7,5,2
+Tangrowth,#0465,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","6' 07""",283.5 lbs,"['Chlorophyll', 'Leaf Guard']","['male', 'female']",6,6,8,7,3,3
+Pansage,#0511,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","2' 00""",23.1 lbs,Gluttony,"['male', 'female']",3,4,3,4,3,4
+Clobbopus,#0852,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 00""",8.8 lbs,Limber,"['male', 'female']",3,4,4,3,2,3
+Nuzleaf,#0274,"['Grass', 'Dark']","['Ice', 'Fire', 'Flying', 'Poison', 'Fighting', 'Fairy', 'Bug']","3' 03""",61.7 lbs,"['Chlorophyll', 'Early Bird']","['male', 'female']",5,5,3,4,3,4
+Registeel,#0379,Steel,"['Fire', 'Fighting', 'Ground']","6' 03""",451.9 lbs,Clear Body,Unknown,5,5,9,5,9,3
+Arcanine,#0059,Fire,"['Water', 'Ground', 'Rock']","6' 03""",341.7 lbs,"['Intimidate', 'Flash Fire']","['male', 'female']",6,7,5,6,5,6
+Morelull,#0755,"['Grass', 'Fairy']","['Steel', 'Fire', 'Flying', 'Ice', 'Poison']","0' 08""",3.3 lbs,"['Effect Spore', 'Illuminate']","['male', 'female']",3,3,4,4,5,1
+Oshawott,#0501,Water,"['Grass', 'Electric']","1' 08""",13.0 lbs,Torrent,"['male', 'female']",4,4,3,4,3,3
+Bronzor,#0436,"['Steel', 'Psychic']","['Ghost', 'Fire', 'Dark', 'Ground']","1' 08""",133.4 lbs,"['Levitate', 'Heatproof']",Unknown,4,2,6,2,6,2
+Tapu Bulu,#0787,"['Grass', 'Fairy']","['Steel', 'Fire', 'Flying', 'Ice', 'Poison']","6' 03""",100.3 lbs,Grassy Surge,Unknown,5,8,7,5,6,5
+Klang,#0600,Steel,"['Fire', 'Fighting', 'Ground']","2' 00""",112.4 lbs,"['Plus', 'Minus']",Unknown,4,5,6,5,5,3
+Ludicolo,#0272,"['Water', 'Grass']","['Flying', 'Bug', 'Poison']","4' 11""",121.3 lbs,"['Swift Swim', 'Rain Dish']","['male', 'female']",5,5,5,6,6,5
+Bramblin,#0946,"['Grass', 'Ghost']","['Ghost', 'Fire', 'Flying', 'Dark', 'Ice']","2' 00""",1.3 lbs,Wind Rider,"['male', 'female']",3,4,2,3,3,4
+Dedenne,#0702,"['Electric', 'Fairy']","['Poison', 'Ground']","0' 08""",4.9 lbs,"['Pickup', 'Cheek Pouch']","['male', 'female']",4,4,4,5,4,6
+Magnemite,#0081,"['Electric', 'Steel']","['Fire', 'Fighting', 'Ground']","1' 00""",13.2 lbs,"['Sturdy', 'Magnet Pull']",Unknown,2,3,5,6,4,3
+Hoothoot,#0163,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","2' 04""",46.7 lbs,"['Keen Eye', 'Insomnia']","['male', 'female']",4,2,2,3,4,3
+Eternatus,#0890,"['Poison', 'Dragon']","['Psychic', 'Ground', 'Ice', 'Dragon']","65' 07""",2094.4 lbs,Pressure,Unknown,9,5,6,6,8,9
+Venipede,#0543,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","1' 04""",11.7 lbs,"['Swarm', 'Poison Point']","['male', 'female']",2,3,4,2,3,4
+Phione,#0489,Water,"['Grass', 'Electric']","1' 04""",6.8 lbs,Hydration,Unknown,5,5,5,5,5,5
+Arbok,#0024,Poison,"['Psychic', 'Ground']","11' 06""",143.3 lbs,"['Shed Skin', 'Intimidate']","['male', 'female']",4,6,5,4,5,5
+Litten,#0725,Fire,"['Water', 'Ground', 'Rock']","1' 04""",9.5 lbs,Blaze,"['male', 'female']",3,4,3,4,3,5
+Deoxys,#0386,Psychic,"['Ghost', 'Dark', 'Bug']","5' 07""",134.0 lbs,Pressure,Unknown,3,9,3,9,3,9
+Rellor,#0953,Bug,"['Fire', 'Flying', 'Rock']","0' 08""",2.2 lbs,Compound Eyes,"['male', 'female']",3,3,4,2,4,2
+Meowstic,#0678,Psychic,"['Ghost', 'Dark', 'Bug']","2' 00""",18.7 lbs,"['Keen Eye', 'Infiltrator']",male,5,3,5,5,5,7
+Chewtle,#0833,Water,"['Grass', 'Electric']","1' 00""",18.7 lbs,"['Shell Armor', 'Strong Jaw']","['male', 'female']",3,4,3,3,3,3
+Lickilicky,#0463,Normal,Fighting,"5' 07""",308.6 lbs,"['Oblivious', 'Own Tempo']","['male', 'female']",7,5,6,5,6,3
+Paras,#0046,"['Bug', 'Grass']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock', 'Bug']","1' 00""",11.9 lbs,"['Effect Spore', 'Dry Skin']","['male', 'female']",3,5,4,3,4,2
+Tinkatink,#0957,"['Fairy', 'Steel']","['Fire', 'Ground']","1' 04""",19.6 lbs,"['Own Tempo', 'Mold Breaker']",female,3,3,3,3,4,4
+Torterra,#0389,"['Grass', 'Ground']","['Fire', 'Flying', 'Bug', 'Ice']","7' 03""",683.4 lbs,Overgrow,"['male', 'female']",6,7,7,5,5,4
+Lileep,#0345,"['Rock', 'Grass']","['Steel', 'Ice', 'Fighting', 'Bug']","3' 03""",52.5 lbs,Suction Cups,"['male', 'female']",4,3,5,4,6,2
+Sawsbuck,#0586,"['Normal', 'Grass']","['Fire', 'Flying', 'Fighting', 'Ice', 'Poison', 'Bug']","6' 03""",203.9 lbs,"['Chlorophyll', 'Sap Sipper']","['male', 'female']",5,6,5,4,5,6
+Karrablast,#0588,Bug,"['Fire', 'Flying', 'Rock']","1' 08""",13.0 lbs,"['Shed Skin', 'Swarm']","['male', 'female']",3,5,3,3,3,4
+Dracovish,#0882,"['Water', 'Dragon']","['Fairy', 'Dragon']","7' 07""",474.0 lbs,"['Water Absorb', 'Strong Jaw']",Unknown,6,6,6,5,5,5
+Krabby,#0098,Water,"['Grass', 'Electric']","1' 04""",14.3 lbs,"['Shell Armor', 'Hyper Cutter']","['male', 'female']",2,7,6,2,2,3
+Magearna,#0801,"['Steel', 'Fairy']","['Fire', 'Ground']","3' 03""",177.5 lbs,Soul-Heart,Unknown,5,6,7,8,7,4
+Nihilego,#0793,"['Rock', 'Poison']","['Steel', 'Water', 'Psychic', 'Ground']","3' 11""",122.4 lbs,Beast Boost,Unknown,7,4,3,8,8,7
+Scraggy,#0559,"['Dark', 'Fighting']","['Fairy', 'Flying', 'Fighting']","2' 00""",26.0 lbs,"['Shed Skin', 'Moxie']","['male', 'female']",3,5,5,3,5,3
+Zubat,#0041,"['Poison', 'Flying']","['Psychic', 'Electric', 'Ice', 'Rock']","2' 07""",16.5 lbs,Inner Focus,"['male', 'female']",3,3,3,2,3,4
+Hatterene,#0858,"['Psychic', 'Fairy']","['Ghost', 'Steel', 'Poison']","6' 11""",11.2 lbs,"['Anticipation', 'Healer']",female,4,6,6,8,7,2
+Gogoat,#0673,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","5' 07""",200.6 lbs,Sap Sipper,"['male', 'female']",8,6,4,6,5,4
+Flamigo,#0973,"['Flying', 'Fighting']","['Psychic', 'Flying', 'Fairy', 'Electric', 'Ice']","5' 03""",81.6 lbs,"['Tangled Feet', 'Scrappy']","['male', 'female']",5,7,5,5,4,6
+Veluza,#0976,"['Water', 'Psychic']","['Ghost', 'Dark', 'Grass', 'Electric', 'Bug']","8' 02""",198.4 lbs,Mold Breaker,"['male', 'female']",6,6,5,5,4,5
+Pidgeotto,#0017,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","3' 07""",66.1 lbs,"['Keen Eye', 'Tangled Feet']","['male', 'female']",4,4,4,3,3,5
+Appletun,#0842,"['Grass', 'Dragon']","['Flying', 'Ice', 'Dragon', 'Poison', 'Fairy', 'Bug']","1' 04""",28.7 lbs,"['Gluttony', 'Ripen']","['male', 'female']",7,5,5,6,5,2
+Dreepy,#0885,"['Dragon', 'Ghost']","['Ghost', 'Dark', 'Fairy', 'Ice', 'Dragon']","1' 08""",4.4 lbs,"['Clear Body', 'Infiltrator']","['male', 'female']",2,4,2,3,2,5
+Nickit,#0827,Dark,"['Fairy', 'Bug', 'Fighting']","2' 00""",19.6 lbs,"['Run Away', 'Unburden']","['male', 'female']",3,2,2,4,3,3
+Sliggoo,#0705,Dragon,"['Fairy', 'Ice', 'Dragon']","2' 07""",38.6 lbs,"['Hydration', 'Sap Sipper']","['male', 'female']",4,5,4,5,7,4
+Slither Wing,#0988,"['Bug', 'Fighting']","['Fire', 'Psychic', 'Flying', 'Fairy']","10' 06""",202.8 lbs,Protosynthesis,Unknown,5,8,5,5,7,5
+Magneton,#0082,"['Electric', 'Steel']","['Fire', 'Fighting', 'Ground']","3' 03""",132.3 lbs,"['Sturdy', 'Magnet Pull']",Unknown,3,4,6,8,5,5
+Sigilyph,#0561,"['Psychic', 'Flying']","['Ghost', 'Dark', 'Electric', 'Ice', 'Rock']","4' 07""",30.9 lbs,"['Magic Guard', 'Wonder Skin']","['male', 'female']",5,4,5,7,5,6
+Haunter,#0093,"['Ghost', 'Poison']","['Ghost', 'Dark', 'Psychic', 'Ground']","5' 03""",0.2 lbs,Levitate,"['male', 'female']",3,3,3,7,4,6
+Yamper,#0835,Electric,Ground,"1' 00""",29.8 lbs,Ball Fetch,"['male', 'female']",4,3,3,3,3,2
+Spritzee,#0682,Fairy,"['Steel', 'Poison']","0' 08""",1.1 lbs,Healer,"['male', 'female']",5,4,4,4,4,2
+Crocalor,#0910,Fire,"['Water', 'Ground', 'Rock']","3' 03""",67.7 lbs,Blaze,"['male', 'female']",5,4,5,6,4,3
+Poliwrath,#0062,"['Water', 'Fighting']","['Fairy', 'Grass', 'Flying', 'Psychic', 'Electric']","4' 03""",119.0 lbs,"['Damp', 'Water Absorb']","['male', 'female']",6,6,6,5,6,5
+Cutiefly,#0742,"['Bug', 'Fairy']","['Fire', 'Steel', 'Flying', 'Poison', 'Rock']","0' 04""",0.4 lbs,"['Shield Dust', 'Honey Gather']","['male', 'female']",3,3,3,4,3,5
+Linoone,#0264,Normal,Fighting,"1' 08""",71.7 lbs,"['Pickup', 'Gluttony']","['male', 'female']",5,5,4,3,4,6
+Grubbin,#0736,Bug,"['Fire', 'Flying', 'Rock']","1' 04""",9.7 lbs,Swarm,"['male', 'female']",3,4,3,4,3,3
+Kubfu,#0891,Fighting,"['Psychic', 'Flying', 'Fairy']","2' 00""",26.5 lbs,Inner Focus,"['male', 'female']",4,6,4,4,3,5
+Entei,#0244,Fire,"['Water', 'Ground', 'Rock']","6' 11""",436.5 lbs,Pressure,Unknown,7,7,5,6,5,6
+Charmander,#0004,Fire,"['Water', 'Ground', 'Rock']","2' 00""",18.7 lbs,Blaze,"['male', 'female']",3,4,3,4,3,4
+Vanilluxe,#0584,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","4' 03""",126.8 lbs,"['Ice Body', 'Snow Warning']","['male', 'female']",5,6,5,7,6,5
+Tyranitar,#0248,"['Rock', 'Dark']","['Steel', 'Fighting', 'Water', 'Fairy', 'Grass', 'Bug', 'Ground']","6' 07""",445.3 lbs,Sand Stream,"['male', 'female']",6,8,7,6,6,4
+Whiscash,#0340,"['Water', 'Ground']",Grass,"2' 11""",52.0 lbs,"['Oblivious', 'Anticipation']","['male', 'female']",7,5,5,5,5,4
+Prinplup,#0394,Water,"['Grass', 'Electric']","2' 07""",50.7 lbs,Torrent,"['male', 'female']",4,4,4,5,5,3
+Grapploct,#0853,Fighting,"['Psychic', 'Flying', 'Fairy']","5' 03""",86.0 lbs,Limber,"['male', 'female']",5,7,6,5,3,5
+Dusclops,#0356,Ghost,"['Ghost', 'Dark']","5' 03""",67.5 lbs,Pressure,"['male', 'female']",3,5,8,4,8,2
+Arctovish,#0883,"['Water', 'Ice']","['Grass', 'Electric', 'Fighting', 'Rock']","6' 07""",385.8 lbs,"['Water Absorb', 'Ice Body']",Unknown,6,6,6,6,4,5
+Charmeleon,#0005,Fire,"['Water', 'Ground', 'Rock']","3' 07""",41.9 lbs,Blaze,"['male', 'female']",4,4,4,5,4,5
+Rolycoly,#0837,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","1' 00""",26.5 lbs,"['Heatproof', 'Steam Engine']","['male', 'female']",2,3,3,3,3,2
+Bombirdier,#0962,"['Flying', 'Dark']","['Fairy', 'Electric', 'Ice', 'Rock']","4' 11""",94.6 lbs,"['Keen Eye', 'Big Pecks']","['male', 'female']",5,7,5,4,5,5
+Chinchou,#0170,"['Water', 'Electric']","['Grass', 'Ground']","1' 08""",26.5 lbs,"['Illuminate', 'Volt Absorb']","['male', 'female']",5,3,3,4,4,4
+Meowth,#0052,Normal,Fighting,"1' 04""",9.3 lbs,"['Pickup', 'Technician']","['male', 'female']",3,3,3,3,3,6
+Victreebel,#0071,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","5' 07""",34.2 lbs,Chlorophyll,"['male', 'female']",5,7,4,6,5,5
+Toxapex,#0748,"['Poison', 'Water']","['Psychic', 'Electric', 'Ground']","2' 04""",32.0 lbs,"['Limber', 'Merciless']","['male', 'female']",3,4,9,4,9,3
+Tarountula,#0917,Bug,"['Fire', 'Flying', 'Rock']","1' 00""",8.8 lbs,Insomnia,"['male', 'female']",3,3,3,2,3,2
+Ursaluna,#0901,"['Ground', 'Normal']","['Water', 'Grass', 'Ice', 'Fighting']","7' 10""",639.3 lbs,,"['male', 'female']",8,9,7,3,5,3
+Rowlet,#0722,"['Grass', 'Flying']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock']","1' 00""",3.3 lbs,Overgrow,"['male', 'female']",4,4,4,3,3,3
+Gastly,#0092,"['Ghost', 'Poison']","['Ghost', 'Dark', 'Psychic', 'Ground']","4' 03""",0.2 lbs,Levitate,"['male', 'female']",2,3,2,6,3,5
+Annihilape,#0979,"['Fighting', 'Ghost']","['Ghost', 'Psychic', 'Flying', 'Fairy']","3' 11""",123.5 lbs,"['Inner Focus', 'Vital Spirit']","['male', 'female']",7,7,5,3,6,6
+Poochyena,#0261,Dark,"['Fairy', 'Bug', 'Fighting']","1' 08""",30.0 lbs,"['Run Away', 'Quick Feet']","['male', 'female']",3,4,3,2,2,3
+Wiglett,#0960,Water,"['Grass', 'Electric']","3' 11""",4.0 lbs,"['Gooey', 'Rattled']","['male', 'female']",1,4,2,3,2,6
+Jolteon,#0135,Electric,Ground,"2' 07""",54.0 lbs,Volt Absorb,"['male', 'female']",4,4,4,7,6,8
+Vanillish,#0583,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","3' 07""",90.4 lbs,"['Snow Cloak', 'Ice Body']","['male', 'female']",3,4,4,5,5,4
+Gimmighoul,#0999,Ghost,"['Ghost', 'Dark']","1' 00""",11.0 lbs,Rattled,Unknown,3,2,5,5,5,1
+Vileplume,#0045,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","3' 11""",41.0 lbs,Chlorophyll,"['male', 'female']",5,5,5,7,6,3
+Coalossal,#0839,"['Rock', 'Fire']","['Water', 'Ground', 'Fighting', 'Rock']","9' 02""",684.5 lbs,"['Flame Body', 'Steam Engine']","['male', 'female']",7,5,8,5,6,2
+Lycanroc,#0745,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","2' 07""",55.1 lbs,"['Keen Eye', 'Sand Rush']","['male', 'female']",5,7,4,4,4,7
+Floette,#0670,Fairy,"['Steel', 'Poison']","0' 08""",2.0 lbs,Flower Veil,female,4,3,3,5,6,4
+Forretress,#0205,"['Bug', 'Steel']",Fire,"3' 11""",277.3 lbs,Sturdy,"['male', 'female']",5,6,9,4,4,3
+Doublade,#0680,"['Steel', 'Ghost']","['Fire', 'Ghost', 'Dark', 'Ground']","2' 07""",9.9 lbs,No Guard,"['male', 'female']",4,7,9,3,3,3
+Spidops,#0918,Bug,"['Fire', 'Flying', 'Rock']","3' 03""",36.4 lbs,Insomnia,"['male', 'female']",4,5,6,4,6,3
+Dusknoir,#0477,Ghost,"['Ghost', 'Dark']","7' 03""",235.0 lbs,Pressure,"['male', 'female']",3,6,8,4,8,3
+Sinistea,#0854,Ghost,"['Ghost', 'Dark']","0' 04""",0.4 lbs,Weak Armor,Unknown,3,3,3,5,4,3
+Gabite,#0444,"['Dragon', 'Ground']","['Fairy', 'Ice', 'Dragon']","4' 07""",123.5 lbs,Sand Veil,"['male', 'female']",4,6,4,3,4,5
+Venomoth,#0049,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","4' 11""",27.6 lbs,"['Shield Dust', 'Tinted Lens']","['male', 'female']",5,4,4,6,5,6
+Infernape,#0392,"['Fire', 'Fighting']","['Water', 'Psychic', 'Flying', 'Ground']","3' 11""",121.3 lbs,Blaze,"['male', 'female']",5,7,5,7,5,7
+Shinx,#0403,Electric,Ground,"1' 08""",20.9 lbs,"['Intimidate', 'Rivalry']","['male', 'female']",3,4,2,3,2,3
+Pansear,#0513,Fire,"['Water', 'Ground', 'Rock']","2' 00""",24.3 lbs,Gluttony,"['male', 'female']",3,4,3,4,3,4
+Kleavor,#0900,"['Bug', 'Rock']","['Steel', 'Water', 'Rock']","5' 11""",196.2 lbs,,"['male', 'female']",5,8,6,3,5,5
+Ariados,#0168,"['Bug', 'Poison']","['Fire', 'Psychic', 'Flying', 'Rock']","3' 07""",73.9 lbs,"['Swarm', 'Insomnia']","['male', 'female']",5,6,5,4,5,3
+Ducklett,#0580,"['Water', 'Flying']","['Electric', 'Rock']","1' 08""",12.1 lbs,"['Keen Eye', 'Big Pecks']","['male', 'female']",4,3,3,3,3,4
+Klinklang,#0601,Steel,"['Fire', 'Fighting', 'Ground']","2' 00""",178.6 lbs,"['Plus', 'Minus']",Unknown,4,6,7,5,5,6
+Dialga,#0483,"['Steel', 'Dragon']","['Fighting', 'Ground']","17' 09""",1505.8 lbs,Pressure,Unknown,6,8,8,9,6,6
+Weepinbell,#0070,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","3' 03""",14.1 lbs,Chlorophyll,"['male', 'female']",4,6,3,5,3,4
+Archeops,#0567,"['Rock', 'Flying']","['Steel', 'Water', 'Electric', 'Ice', 'Rock']","4' 07""",70.5 lbs,Defeatist,"['male', 'female']",5,9,4,7,4,7
+Clefairy,#0035,Fairy,"['Steel', 'Poison']","2' 00""",16.5 lbs,"['Cute Charm', 'Magic Guard']","['male', 'female']",5,3,3,4,4,3
+Magikarp,#0129,Water,"['Grass', 'Electric']","2' 11""",22.0 lbs,Swift Swim,"['male', 'female']",2,1,4,1,2,5
+Mightyena,#0262,Dark,"['Fairy', 'Bug', 'Fighting']","3' 03""",81.6 lbs,"['Intimidate', 'Quick Feet']","['male', 'female']",5,6,5,4,4,5
+Aron,#0304,"['Steel', 'Rock']","['Water', 'Fighting', 'Ground']","1' 04""",132.3 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",3,5,6,3,3,2
+Swalot,#0317,Poison,"['Psychic', 'Ground']","5' 07""",176.4 lbs,"['Liquid Ooze', 'Sticky Hold']","['male', 'female']",6,5,5,5,5,4
+Necrozma,#0800,Psychic,"['Ghost', 'Dark', 'Bug']","7' 10""",507.1 lbs,Prism Armor,Unknown,6,7,6,8,6,5
+Lopunny,#0428,Normal,Fighting,"3' 11""",73.4 lbs,"['Cute Charm', 'Klutz']","['male', 'female']",4,5,5,4,6,7
+Sudowoodo,#0185,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","3' 11""",83.8 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",5,6,7,2,4,2
+Scorbunny,#0813,Fire,"['Water', 'Ground', 'Rock']","1' 00""",9.9 lbs,Blaze,"['male', 'female']",3,5,3,3,5,3
+Incineroar,#0727,"['Fire', 'Dark']","['Water', 'Ground', 'Fighting', 'Rock']","5' 11""",183.0 lbs,Blaze,"['male', 'female']",6,7,6,5,6,4
+Popplio,#0728,Water,"['Grass', 'Electric']","1' 04""",16.5 lbs,Torrent,"['male', 'female']",3,4,4,4,4,3
+Meloetta,#0648,"['Normal', 'Psychic']","['Dark', 'Bug']","2' 00""",14.3 lbs,Serene Grace,Unknown,6,5,5,8,8,6
+Tinkatuff,#0958,"['Fairy', 'Steel']","['Fire', 'Ground']","2' 04""",130.3 lbs,"['Own Tempo', 'Mold Breaker']",female,4,4,4,3,5,5
+Scovillain,#0952,"['Grass', 'Fire']","['Flying', 'Poison', 'Rock']","2' 11""",33.1 lbs,"['Chlorophyll', 'Insomnia']","['male', 'female']",4,7,4,7,4,5
+Cyndaquil,#0155,Fire,"['Water', 'Ground', 'Rock']","1' 08""",17.4 lbs,Blaze,"['male', 'female']",3,4,3,4,3,4
+Sawk,#0539,Fighting,"['Psychic', 'Flying', 'Fairy']","4' 07""",112.4 lbs,"['Inner Focus', 'Sturdy']",male,5,8,5,2,5,5
+Treecko,#0252,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 08""",11.0 lbs,Overgrow,"['male', 'female']",3,3,3,4,4,5
+Cosmog,#0789,Psychic,"['Ghost', 'Dark', 'Bug']","0' 08""",0.2 lbs,Unaware,Unknown,3,2,2,2,2,3
+Glimmet,#0969,"['Rock', 'Poison']","['Steel', 'Water', 'Psychic', 'Ground']","2' 04""",17.6 lbs,Toxic Debris,"['male', 'female']",3,3,3,7,4,4
+Drifblim,#0426,"['Ghost', 'Flying']","['Ghost', 'Dark', 'Electric', 'Ice', 'Rock']","3' 11""",33.1 lbs,"['Aftermath', 'Unburden']","['male', 'female']",9,5,3,6,4,5
+Torchic,#0255,Fire,"['Water', 'Ground', 'Rock']","1' 04""",5.5 lbs,Blaze,"['male', 'female']",3,4,3,5,3,3
+Azurill,#0298,"['Normal', 'Fairy']","['Steel', 'Poison']","0' 08""",4.4 lbs,"['Thick Fat', 'Huge Power']","['male', 'female']",3,2,3,2,3,2
+Mr. Rime,#0866,"['Ice', 'Psychic']","['Steel', 'Ghost', 'Fire', 'Dark', 'Rock', 'Bug']","4' 11""",128.3 lbs,"['Tangled Feet', 'Screen Cleaner']","['male', 'female']",5,5,5,7,6,5
+Arctibax,#0997,"['Dragon', 'Ice']","['Steel', 'Fairy', 'Rock', 'Fighting', 'Dragon']","2' 07""",66.1 lbs,Thermal Exchange,"['male', 'female']",6,6,4,3,4,4
+Tsareena,#0763,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","3' 11""",47.2 lbs,"['Leaf Guard', 'Queenly Majesty']",female,5,8,6,3,6,5
+Drednaw,#0834,"['Water', 'Rock']","['Grass', 'Electric', 'Fighting', 'Ground']","3' 03""",254.6 lbs,"['Shell Armor', 'Strong Jaw']","['male', 'female']",6,7,6,3,4,5
+Obstagoon,#0862,"['Dark', 'Normal']","['Fairy', 'Bug', 'Fighting']","5' 03""",101.4 lbs,"['Guts', 'Reckless']","['male', 'female']",6,6,6,4,5,6
+Flapple,#0841,"['Grass', 'Dragon']","['Flying', 'Ice', 'Dragon', 'Poison', 'Fairy', 'Bug']","1' 00""",2.2 lbs,"['Gluttony', 'Ripen']","['male', 'female']",5,7,5,6,4,5
+Garganacl,#0934,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","7' 07""",529.1 lbs,"['Sturdy', 'Purifying Salt']","['male', 'female']",6,6,8,3,6,3
+Minun,#0312,Electric,Ground,"1' 04""",9.3 lbs,Minus,"['male', 'female']",4,3,3,5,5,6
+Nosepass,#0299,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","3' 03""",213.8 lbs,"['Sturdy', 'Magnet Pull']","['male', 'female']",2,3,8,3,6,2
+Vulpix,#0037,Fire,"['Water', 'Ground', 'Rock']","2' 00""",21.8 lbs,Flash Fire,"['male', 'female']",3,3,3,3,4,4
+Piloswine,#0221,"['Ice', 'Ground']","['Steel', 'Fire', 'Grass', 'Water', 'Fighting']","3' 07""",123.0 lbs,"['Oblivious', 'Snow Cloak']","['male', 'female']",6,6,5,4,4,3
+Cinderace,#0815,Fire,"['Water', 'Ground', 'Rock']","4' 07""",72.8 lbs,Blaze,"['male', 'female']",5,7,5,5,7,4
+Carnivine,#0455,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","4' 07""",59.5 lbs,Levitate,"['male', 'female']",5,6,5,6,5,3
+Tapu Koko,#0785,"['Electric', 'Fairy']","['Poison', 'Ground']","5' 11""",45.2 lbs,Electric Surge,Unknown,5,7,5,6,5,8
+Metapod,#0011,Bug,"['Fire', 'Flying', 'Rock']","2' 04""",21.8 lbs,Shed Skin,"['male', 'female']",3,2,4,2,2,2
+Dewott,#0502,Water,"['Grass', 'Electric']","2' 07""",54.0 lbs,Torrent,"['male', 'female']",5,5,4,5,4,4
+Bayleef,#0153,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","3' 11""",34.8 lbs,Overgrow,"['male', 'female']",4,4,5,4,5,4
+Blissey,#0242,Normal,Fighting,"4' 11""",103.2 lbs,"['Natural Cure', 'Serene Grace']",female,"['1', '5']",1,1,5,8,4
+Seel,#0086,Water,"['Grass', 'Electric']","3' 07""",198.4 lbs,"['Thick Fat', 'Hydration']","['male', 'female']",4,3,4,3,5,3
+Jellicent,#0593,"['Water', 'Ghost']","['Ghost', 'Dark', 'Grass', 'Electric']","7' 03""",297.6 lbs,"['Water Absorb', 'Cursed Body']",male,6,4,5,5,7,4
+Togekiss,#0468,"['Fairy', 'Flying']","['Steel', 'Poison', 'Electric', 'Ice', 'Rock']","4' 11""",83.8 lbs,"['Serene Grace', 'Hustle']","['male', 'female']",5,3,6,8,7,5
+Xatu,#0178,"['Psychic', 'Flying']","['Ghost', 'Dark', 'Electric', 'Ice', 'Rock']","4' 11""",33.1 lbs,"['Synchronize', 'Early Bird']","['male', 'female']",4,5,5,6,5,6
+Feraligatr,#0160,Water,"['Grass', 'Electric']","7' 07""",195.8 lbs,Torrent,"['male', 'female']",5,7,6,5,5,5
+Aurorus,#0699,"['Rock', 'Ice']","['Steel', 'Fighting', 'Water', 'Rock', 'Grass', 'Ground']","8' 10""",496.0 lbs,Refrigerate,"['male', 'female']",8,5,5,6,6,4
+Weavile,#0461,"['Dark', 'Ice']","['Steel', 'Fire', 'Fighting', 'Rock', 'Fairy', 'Bug']","3' 07""",75.0 lbs,Pressure,"['male', 'female']",5,8,4,3,5,8
+Regidrago,#0895,Dragon,"['Fairy', 'Ice', 'Dragon']","6' 11""",440.9 lbs,Dragon’s Maw,Unknown,"['1', '2']",6,3,6,3,5
+Wyrdeer,#0899,"['Normal', 'Psychic']","['Dark', 'Bug']","5' 11""",209.7 lbs,,"['male', 'female']",7,7,5,7,5,4
+Hypno,#0097,Psychic,"['Ghost', 'Dark', 'Bug']","5' 03""",166.7 lbs,"['Insomnia', 'Forewarn']","['male', 'female']",5,5,5,5,7,4
+Bibarel,#0400,"['Normal', 'Water']","['Grass', 'Electric', 'Fighting']","3' 03""",69.4 lbs,"['Simple', 'Unaware']","['male', 'female']",5,5,4,4,4,5
+Lumineon,#0457,Water,"['Grass', 'Electric']","3' 11""",52.9 lbs,"['Swift Swim', 'Storm Drain']","['male', 'female']",5,5,5,5,6,6
+Staravia,#0397,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","2' 00""",34.2 lbs,Intimidate,"['male', 'female']",4,5,3,3,3,5
+Granbull,#0210,Fairy,"['Steel', 'Poison']","4' 07""",107.4 lbs,"['Intimidate', 'Quick Feet']","['male', 'female']",6,8,5,4,4,3
+Squawkabilly,#0931,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","2' 00""",5.3 lbs,"['Intimidate', 'Hustle']","['male', 'female']",5,6,3,3,3,6
+Hoopa,#0720,"['Psychic', 'Ghost']","['Ghost', 'Dark']","1' 08""",19.8 lbs,Magician,Unknown,5,7,4,9,8,5
+Rabsca,#0954,"['Bug', 'Psychic']","['Ghost', 'Fire', 'Flying', 'Dark', 'Rock', 'Bug']","1' 00""",7.7 lbs,Synchronize,"['male', 'female']",5,3,5,7,6,3
+Mankey,#0056,Fighting,"['Psychic', 'Flying', 'Fairy']","1' 08""",61.7 lbs,"['Vital Spirit', 'Anger Point']","['male', 'female']",3,5,3,3,3,5
+Celebi,#0251,"['Psychic', 'Grass']","['Ghost', 'Fire', 'Flying', 'Ice', 'Dark', 'Poison', 'Bug']","2' 00""",11.0 lbs,Natural Cure,Unknown,6,6,6,6,6,6
+Genesect,#0649,"['Bug', 'Steel']",Fire,"4' 11""",181.9 lbs,Download,Unknown,5,8,6,8,6,6
+Ferrothorn,#0598,"['Grass', 'Steel']","['Fire', 'Fighting']","3' 03""",242.5 lbs,Iron Barbs,"['male', 'female']",5,6,8,4,7,2
+Eelektross,#0604,Electric,Ground,"6' 11""",177.5 lbs,Levitate,"['male', 'female']",5,7,5,7,5,3
+Cubchoo,#0613,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","1' 08""",18.7 lbs,"['Snow Cloak', 'Slush Rush']","['male', 'female']",4,5,3,4,3,3
+Latias,#0380,"['Dragon', 'Psychic']","['Ghost', 'Ice', 'Dragon', 'Dark', 'Fairy', 'Bug']","4' 07""",88.2 lbs,Levitate,female,5,5,6,7,8,7
+Sharpedo,#0319,"['Water', 'Dark']","['Fairy', 'Grass', 'Electric', 'Fighting', 'Bug']","5' 11""",195.8 lbs,Rough Skin,"['male', 'female']",5,8,3,6,3,6
+Gallade,#0475,"['Psychic', 'Fighting']","['Ghost', 'Fairy', 'Flying']","5' 03""",114.6 lbs,"['Steadfast', 'Sharpness']",male,4,8,4,4,7,5
+Electabuzz,#0125,Electric,Ground,"3' 07""",66.1 lbs,Static,"['male', 'female']",4,5,4,6,5,7
+Nidoran♂,#0032,Poison,"['Psychic', 'Ground']","1' 08""",19.8 lbs,"['Poison Point', 'Rivalry']",male,3,4,3,3,3,3
+Goomy,#0704,Dragon,"['Fairy', 'Ice', 'Dragon']","1' 00""",6.2 lbs,"['Hydration', 'Sap Sipper']","['male', 'female']",3,3,3,4,5,3
+Ceruledge,#0937,"['Fire', 'Ghost']","['Water', 'Ghost', 'Ground', 'Dark', 'Rock']","5' 03""",136.7 lbs,Flash Fire,"['male', 'female']",5,8,5,4,6,5
+Wigglytuff,#0040,"['Normal', 'Fairy']","['Steel', 'Poison']","3' 03""",26.5 lbs,"['Cute Charm', 'Competitive']","['male', 'female']",9,5,3,5,3,3
+Zigzagoon,#0263,Normal,Fighting,"1' 04""",38.6 lbs,"['Pickup', 'Gluttony']","['male', 'female']",3,2,3,2,3,4
+Pawniard,#0624,"['Dark', 'Steel']","['Fire', 'Fighting', 'Ground']","1' 08""",22.5 lbs,"['Inner Focus', 'Defiant']","['male', 'female']",3,5,5,3,3,4
+Spoink,#0325,Psychic,"['Ghost', 'Dark', 'Bug']","2' 04""",67.5 lbs,"['Own Tempo', 'Thick Fat']","['male', 'female']",4,2,3,5,5,4
+Boldore,#0525,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","2' 11""",224.9 lbs,"['Sturdy', 'Weak Armor']","['male', 'female']",5,7,7,3,3,2
+Loudred,#0294,Normal,Fighting,"3' 03""",89.3 lbs,Soundproof,"['male', 'female']",5,5,3,5,3,3
+Blastoise,#0009,Water,"['Grass', 'Electric']","5' 03""",188.5 lbs,Torrent,"['male', 'female']",5,5,6,5,7,5
+Combusken,#0256,"['Fire', 'Fighting']","['Water', 'Psychic', 'Flying', 'Ground']","2' 11""",43.0 lbs,Blaze,"['male', 'female']",4,5,4,5,4,4
+Slowpoke,#0079,"['Water', 'Psychic']","['Ghost', 'Dark', 'Grass', 'Electric', 'Bug']","3' 11""",79.4 lbs,"['Oblivious', 'Own Tempo']","['male', 'female']",6,4,4,3,3,1
+Qwilfish,#0211,"['Water', 'Poison']","['Psychic', 'Electric', 'Ground']","1' 08""",8.6 lbs,"['Poison Point', 'Swift Swim']","['male', 'female']",4,6,5,4,4,5
+Litleo,#0667,"['Fire', 'Normal']","['Water', 'Ground', 'Fighting', 'Rock']","2' 00""",29.8 lbs,"['Rivalry', 'Unnerve']","['male', 'female']",4,3,4,5,4,5
+Piplup,#0393,Water,"['Grass', 'Electric']","1' 04""",11.5 lbs,Torrent,"['male', 'female']",4,3,4,4,4,3
+Braixen,#0654,Fire,"['Water', 'Ground', 'Rock']","3' 03""",32.0 lbs,Blaze,"['male', 'female']",4,4,4,6,5,5
+Regieleki,#0894,Electric,Ground,"3' 11""",319.7 lbs,Transistor,Unknown,5,6,3,6,3,"['1', '2']"
+Drapion,#0452,"['Poison', 'Dark']",Ground,"4' 03""",135.6 lbs,"['Sniper', 'Battle Armor']","['male', 'female']",5,6,7,4,5,6
+Accelgor,#0617,Bug,"['Fire', 'Flying', 'Rock']","2' 07""",55.8 lbs,"['Hydration', 'Sticky Hold']","['male', 'female']",5,5,3,6,4,9
+Steelix,#0208,"['Steel', 'Ground']","['Fire', 'Water', 'Fighting', 'Ground']","30' 02""",881.8 lbs,"['Rock Head', 'Sturdy']","['male', 'female']",5,5,"['1', '2']",4,4,2
+Budew,#0406,"['Grass', 'Poison']","['Fire', 'Psychic', 'Flying', 'Ice']","0' 08""",2.6 lbs,"['Poison Point', 'Natural Cure']","['male', 'female']",3,2,3,3,5,4
+Drilbur,#0529,Ground,"['Water', 'Grass', 'Ice']","1' 00""",18.7 lbs,"['Sand Rush', 'Sand Force']","['male', 'female']",4,5,3,2,3,4
+Masquerain,#0284,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","2' 07""",7.9 lbs,Intimidate,"['male', 'female']",5,4,4,6,5,5
+Muk,#0089,Poison,"['Psychic', 'Ground']","3' 11""",66.1 lbs,"['Stench', 'Sticky Hold']","['male', 'female']",7,7,5,4,6,3
+Kingdra,#0230,"['Water', 'Dragon']","['Fairy', 'Dragon']","5' 11""",335.1 lbs,"['Swift Swim', 'Sniper']","['male', 'female']",5,6,6,6,6,5
+Skiploom,#0188,"['Grass', 'Flying']","['Fire', 'Flying', 'Ice', 'Poison', 'Rock']","2' 00""",2.2 lbs,"['Chlorophyll', 'Leaf Guard']","['male', 'female']",4,3,3,3,4,5
+Igglybuff,#0174,"['Normal', 'Fairy']","['Steel', 'Poison']","1' 00""",2.2 lbs,"['Cute Charm', 'Competitive']","['male', 'female']",6,2,1,3,2,1
+Castform,#0351,Normal,Fighting,"1' 00""",1.8 lbs,Forecast,"['male', 'female']",5,5,5,5,5,5
+Tentacruel,#0073,"['Water', 'Poison']","['Psychic', 'Electric', 'Ground']","5' 03""",121.3 lbs,"['Clear Body', 'Liquid Ooze']","['male', 'female']",5,5,4,5,8,6
+Trevenant,#0709,"['Ghost', 'Grass']","['Ghost', 'Fire', 'Flying', 'Dark', 'Ice']","4' 11""",156.5 lbs,"['Natural Cure', 'Frisk']","['male', 'female']",5,7,5,4,5,4
+Porygon,#0137,Normal,Fighting,"2' 07""",80.5 lbs,"['Trace', 'Download']",Unknown,4,4,5,5,5,3
+Drampa,#0780,"['Normal', 'Dragon']","['Fairy', 'Fighting', 'Ice', 'Dragon']","9' 10""",407.9 lbs,"['Sap Sipper', 'Berserk']","['male', 'female']",5,4,5,8,6,3
+Vespiquen,#0416,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","3' 11""",84.9 lbs,Pressure,female,5,5,6,5,6,3
+Iron Thorns,#0995,"['Rock', 'Electric']","['Water', 'Grass', 'Fighting', 'Ground']","5' 03""",668.0 lbs,Quark Drive,Unknown,6,8,7,5,5,5
+Zygarde,#0718,"['Dragon', 'Ground']","['Fairy', 'Ice', 'Dragon']","16' 05""",672.4 lbs,Aura Break,Unknown,7,6,8,5,6,6
+Quagsire,#0195,"['Water', 'Ground']",Grass,"4' 07""",165.3 lbs,"['Damp', 'Water Absorb']","['male', 'female']",6,5,5,4,4,3
+Purugly,#0432,Normal,Fighting,"3' 03""",96.6 lbs,"['Own Tempo', 'Thick Fat']","['male', 'female']",5,5,4,4,4,7
+Varoom,#0965,"['Steel', 'Poison']","['Fire', 'Ground']","3' 03""",77.2 lbs,Overcoat,"['male', 'female']",3,5,4,2,3,3
+Koffing,#0109,Poison,"['Psychic', 'Ground']","2' 00""",2.2 lbs,"['Levitate', 'Neutralizing Gas']","['male', 'female']",3,4,6,4,3,3
+Delibird,#0225,"['Ice', 'Flying']","['Steel', 'Fire', 'Electric', 'Rock']","2' 11""",35.3 lbs,"['Vital Spirit', 'Hustle']","['male', 'female']",3,4,3,4,3,5
+Kricketune,#0402,Bug,"['Fire', 'Flying', 'Rock']","3' 03""",56.2 lbs,Swarm,"['male', 'female']",5,5,3,4,3,4
+Cresselia,#0488,Psychic,"['Ghost', 'Dark', 'Bug']","4' 11""",188.7 lbs,Levitate,female,8,5,8,5,8,5
+Ralts,#0280,"['Psychic', 'Fairy']","['Ghost', 'Steel', 'Poison']","1' 04""",14.6 lbs,"['Synchronize', 'Trace']","['male', 'female']",2,2,2,3,3,3
+Ninetales,#0038,Fire,"['Water', 'Ground', 'Rock']","3' 07""",43.9 lbs,Flash Fire,"['male', 'female']",5,5,5,5,6,6
+Pidgey,#0016,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","1' 00""",4.0 lbs,"['Keen Eye', 'Tangled Feet']","['male', 'female']",3,3,3,3,3,4
+Yanma,#0193,"['Bug', 'Flying']","['Fire', 'Flying', 'Electric', 'Ice', 'Rock']","3' 11""",83.8 lbs,"['Compound Eyes', 'Speed Boost']","['male', 'female']",4,4,3,5,3,6
+Meganium,#0154,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","5' 11""",221.6 lbs,Overgrow,"['male', 'female']",5,5,6,5,6,5
+Cleffa,#0173,Fairy,"['Steel', 'Poison']","1' 00""",6.6 lbs,"['Cute Charm', 'Magic Guard']","['male', 'female']",3,2,2,3,4,1
+Umbreon,#0197,Dark,"['Fairy', 'Bug', 'Fighting']","3' 03""",59.5 lbs,Synchronize,"['male', 'female']",6,4,7,4,8,4
+Darumaka,#0554,Fire,"['Water', 'Ground', 'Rock']","2' 00""",82.7 lbs,Hustle,"['male', 'female']",5,6,3,1,3,3
+Seedot,#0273,Grass,"['Fire', 'Flying', 'Ice', 'Poison', 'Bug']","1' 08""",8.8 lbs,"['Chlorophyll', 'Early Bird']","['male', 'female']",3,3,3,2,2,2
+Krokorok,#0552,"['Ground', 'Dark']","['Ice', 'Water', 'Fighting', 'Fairy', 'Grass', 'Bug']","3' 03""",73.6 lbs,"['Intimidate', 'Moxie']","['male', 'female']",4,5,3,3,3,5
+Hariyama,#0297,Fighting,"['Psychic', 'Flying', 'Fairy']","7' 07""",559.5 lbs,"['Guts', 'Thick Fat']","['male', 'female']",9,8,4,3,4,3
+Darkrai,#0491,Dark,"['Fairy', 'Bug', 'Fighting']","4' 11""",111.3 lbs,Bad Dreams,Unknown,5,6,6,8,6,8
+Rampardos,#0409,Rock,"['Water', 'Steel', 'Grass', 'Fighting', 'Ground']","5' 03""",226.0 lbs,Mold Breaker,"['male', 'female']",6,"['1', '0']",4,4,3,4
+Mudbray,#0749,Ground,"['Water', 'Grass', 'Ice']","3' 03""",242.5 lbs,"['Own Tempo', 'Stamina']","['male', 'female']",5,6,5,3,4,3
+Staraptor,#0398,"['Normal', 'Flying']","['Electric', 'Ice', 'Rock']","3' 11""",54.9 lbs,Intimidate,"['male', 'female']",5,8,5,3,4,6
+Cramorant,#0845,"['Flying', 'Water']","['Electric', 'Rock']","2' 07""",39.7 lbs,Gulp Missile,"['male', 'female']",5,5,4,6,5,5
+Dewpider,#0751,"['Water', 'Bug']","['Flying', 'Electric', 'Rock']","1' 00""",8.8 lbs,Water Bubble,"['male', 'female']",3,3,4,3,5,2
+Seadra,#0117,Water,"['Grass', 'Electric']","3' 11""",55.1 lbs,"['Poison Point', 'Sniper']","['male', 'female']",4,4,6,6,3,5
+Cetitan,#0975,Ice,"['Fire', 'Steel', 'Fighting', 'Rock']","14' 09""",1543.2 lbs,"['Thick Fat', 'Slush Rush']","['male', 'female']","['1', '0']",7,4,3,4,5
+Charcadet,#0935,Fire,"['Water', 'Ground', 'Rock']","2' 00""",23.1 lbs,Flash Fire,"['male', 'female']",3,3,3,3,3,3
+Tornadus,#0641,Flying,"['Electric', 'Ice', 'Rock']","4' 11""",138.9 lbs,Prankster,male,5,7,5,8,5,7
+Nidoran♀,#0029,Poison,"['Psychic', 'Ground']","1' 04""",15.4 lbs,"['Poison Point', 'Rivalry']",female,4,3,4,3,3,3
+Primarina,#0730,"['Water', 'Fairy']","['Grass', 'Electric', 'Poison']","5' 11""",97.0 lbs,Torrent,"['male', 'female']",5,5,5,8,7,4
+Primeape,#0057,Fighting,"['Psychic', 'Flying', 'Fairy']","3' 03""",70.5 lbs,"['Vital Spirit', 'Anger Point']","['male', 'female']",4,7,4,4,5,6
+Magnezone,#0462,"['Electric', 'Steel']","['Fire', 'Fighting', 'Ground']","3' 11""",396.8 lbs,"['Sturdy', 'Magnet Pull']",Unknown,5,5,7,8,6,4
+Absol,#0359,Dark,"['Fairy', 'Bug', 'Fighting']","3' 11""",103.6 lbs,"['Pressure', 'Super Luck']","['male', 'female']",4,8,4,5,4,5
+Alomomola,#0594,Water,"['Grass', 'Electric']","3' 11""",69.7 lbs,"['Hydration', 'Healer']","['male', 'female']","['1', '0']",5,5,3,3,4
+Vibrava,#0329,"['Ground', 'Dragon']","['Fairy', 'Ice', 'Dragon']","3' 07""",33.7 lbs,Levitate,"['male', 'female']",3,5,3,3,3,5
+Regigigas,#0486,Normal,Fighting,"12' 02""",925.9 lbs,Slow Start,Unknown,7,"['1', '0']",7,5,7,6
+Amaura,#0698,"['Rock', 'Ice']","['Steel', 'Fighting', 'Water', 'Rock', 'Grass', 'Ground']","4' 03""",55.6 lbs,Refrigerate,"['male', 'female']",5,4,3,4,4,3
+Minior,#0774,"['Rock', 'Flying']","['Steel', 'Water', 'Electric', 'Ice', 'Rock']","1' 00""",88.2 lbs,Shields Down,Unknown,4,4,6,4,6,4
+Medicham,#0308,"['Fighting', 'Psychic']","['Ghost', 'Fairy', 'Flying']","4' 03""",69.4 lbs,Pure Power,"['male', 'female']",4,4,5,4,5,5
+Zorua,#0570,Dark,"['Fairy', 'Bug', 'Fighting']","2' 04""",27.6 lbs,Illusion,"['male', 'female']",3,4,3,5,3,4
+Clamperl,#0366,Water,"['Grass', 'Electric']","1' 04""",115.7 lbs,Shell Armor,"['male', 'female']",3,4,5,5,4,2
+Girafarig,#0203,"['Normal', 'Psychic']","['Dark', 'Bug']","4' 11""",91.5 lbs,"['Inner Focus', 'Early Bird']","['male', 'female']",5,5,4,6,4,5
+Salazzle,#0758,"['Poison', 'Fire']","['Water', 'Psychic', 'Ground', 'Rock']","3' 11""",48.9 lbs,Corrosion,female,4,4,4,7,4,7
+Moltres,#0146,"['Fire', 'Flying']","['Water', 'Electric', 'Rock']","6' 07""",132.3 lbs,Pressure,Unknown,6,6,6,8,5,6
+Frogadier,#0657,Water,"['Grass', 'Electric']","2' 00""",24.0 lbs,Torrent,"['male', 'female']",4,4,4,5,4,6
+Exploud,#0295,Normal,Fighting,"4' 11""",185.2 lbs,Soundproof,"['male', 'female']",7,6,4,6,5,4
+Scrafty,#0560,"['Dark', 'Fighting']","['Fairy', 'Flying', 'Fighting']","3' 07""",66.1 lbs,"['Shed Skin', 'Moxie']","['male', 'female']",4,6,7,3,7,4
+Giratina,#0487,"['Ghost', 'Dragon']","['Ghost', 'Dark', 'Fairy', 'Ice', 'Dragon']","14' 09""",1653.5 lbs,Pressure,Unknown,9,6,8,6,8,6
+Bewear,#0760,"['Normal', 'Fighting']","['Psychic', 'Flying', 'Fairy', 'Fighting']","6' 11""",297.6 lbs,"['Klutz', 'Fluffy']","['male', 'female']",8,8,5,4,4,4
+Pikachu,#0025,Electric,Ground,"1' 04""",13.2 lbs,Static,"['male', 'female']",3,4,3,3,3,6
